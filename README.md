@@ -14,10 +14,20 @@ In order to avoid moving forward with a dataset that contains incorrect formats,
 
 Walkthrough of the project: 
 
-A) Inserting a new "responders_id" column to give each survey responder a unique ID using the SEQUENCE function
-The SEQUENCE function, just like the name suggests, is pretty useful in generating a list of sequential numbers depending on user's preference. 
+A) Inserting a new "responders_id" column to give each survey responder a unique ID using the SEQUENCE function.
+
+The SEQUENCE function, just like the name suggests, is pretty useful in generating a list of sequential numbers in an array depending on user's preference. 
 In this case, since a total of 736 people responded to the survey, I used the SEQUENCE function to generate 736 values inside the newly created "Responders_Id" column.
 
+The basic syntax of the SEQUENCE function is as follows:
+
+                                                        =SEQUENCE(rows,[columns],[start],[step])
+
+Where rows is the number of elements in the sequence, columns is the number of columns in the sequence (default is 1), start is the starting value (default is 1), and step is the value to increment by (default is 1).
+
+                                                               In our case,
+                                                              = SEQUENCE (736)
+                                                    
 ![SEQUENCE NEW](https://user-images.githubusercontent.com/123303003/215724296-6c07e84d-1ea6-4340-8a30-d32f3ebd5342.png)
 
 
@@ -65,33 +75,40 @@ Before splitting the age column into different groups, it was imperative to figu
 Using the MAX and MIN function, I was able to extract the highest as well as the lowest of values, in our case, the maximum as well as the minimum age. 
 From a given set of values, the MAX and MIN function are useful in returning the maximun and minimum of values. 
 
-=MAX(number1, [number2], ...)
+                                                =MAX(number1, [number2], ...)
 
-Where "number1, [number2], ..." represents the set of values you want to find the maximum value of. 
+                    Where "number1, [number2], ..." represents the set of values you want to find the maximum value of. 
 
-For example, to find the maximum value in a range of cells A1 to A10, you would write:
-=MAX(A1:A10)
+                    For example, to find the maximum value in a range of cells A1 to A10, you would write:
+                                                    =MAX(A1:A10)
 
-You can also include multiple ranges, such as:
+                                 You can also include multiple ranges, such as:
 
-=MAX(A1:A10, C1:C10)
+                                                 =MAX(A1:A10, C1:C10)
 
-This would find the maximum value across both ranges A1 to A10 and C1 to C10.
+                       This would find the maximum value across both ranges A1 to A10 and C1 to C10.
 
 In our case, the Minimum age = 10, Maximum age = 89.
 After figuring out the maximum and minimum age, I decided to divide the age column into 8 groups.
 
-This was achieved by using the IFS fucntion in Microsoft Excel.
+This was achieved by using the IFS function in Microsoft Excel. 
+The IFS function in Microsoft Excel is a function utilized to compose multiple logical statements and return values based on what is true per the statement.
+
+IFS stands for "If-Then-Else-End" and works as follows:
+
+             IFS(logical_test1, value_if_true1, [logical_test2, value_if_true2, ...], [value_if_false])
 
 Using the IFS function, we pass on the following statements to return back
 ![IFS AGE](https://user-images.githubusercontent.com/123303003/215728656-4f7fd0cc-9d00-4586-834e-722f33473368.png)
 
 
-= IFS(D2 <= 19, "10-19", AND(D2 >19, D2<= 29), "20-29", AND(D2>29, D2<= 39), "30-39", AND(D2 > 39, D2 <= 49), "40-49", AND(D2>49, D2 <= 59), "50-59", AND(D2>59, D2<= 69), "60-69", AND(D2 >69, D2<=79), "70-79", D2>79, "80-89")
+               = IFS(D2 <= 19, "10-19", AND(D2 >19, D2<= 29), "20-29", AND(D2>29, D2<= 39), 
+               "30-39", AND(D2 > 39, D2 <= 49), "40-49", AND(D2>49, D2 <= 59), "50-59", AND(D2>59, D2<= 69), 
+               "60-69", AND(D2 >69, D2<=79), "70-79", D2>79, "80-89")
 --
 
-D) Making minute adjustments in the column "Primary streaming service" using filters
-Although most of the responders happen to be subscribed to a primary streaming service, some of the responses also mention people not having a go-to streaming service. 
+D) Making minute adjustments in the column by filtering out a specific data and replacing it with a different text value
+Although most of the responders happen to be subscribed to a primary streaming service, some of the responses also mention people not having a go-to streaming service to listen to music. 
 Just for the sake of visualization process, so as to make our data more cleaner and presentable, I decided to replace "I do not have a streaming service" with "no streaming service".
 ![FILTER STREAMING SERVICE](https://user-images.githubusercontent.com/123303003/215729971-840a19ac-3266-4f18-b478-3e3946328455.png)
 
@@ -99,31 +116,35 @@ A quick way to achieve this was by filtering the primary streaming services colu
 ![FILTER 2](https://user-images.githubusercontent.com/123303003/215730125-0c28a453-5f73-41a2-8217-9cc7e3445aee.png)
 
 E) Dividing self-reported scores related to anxiety, insomnia, depression, and OCD into three different groups using the IFS function.
-An IFS function, just like it was executed to perfection to populate individual age into eight classes, can also be used to group the scores reported by responders in the anxiety, insomnia, depression, and OCD columns.
-Knowing that the scores are placed in between a score of 0-10, I decided to divide all the four columns into three different classes, as follows:
+An IFS function, just like it was executed to assemble individual age into eight classes, can also be used to group the scores reported by responders in the anxiety, insomnia, depression, and OCD columns.
+Knowing that the scores are placed in between a score of 0-10, I decided to divide these columns into three different classes for each, as follows:
 
+                                                 Classes
+                                                 
+                                                 0-3: Mild
 
-0-3: Mild
+                                                 4-7: Moderate
 
-4-7: Moderate
-
-7-10: Severe
+                                                 7-10: Severe
 
 ![ANXIETY SCORE](https://user-images.githubusercontent.com/123303003/215730636-46792173-9a4f-44c7-a0c3-8193f9e01523.png)
 
 F) Dealing with missing values
 To check the number of missing values in our worksheet, I simply selected the entire worksheet (CTRL+A) and directed my cursor towards the editing group on Home tab to use the Find & Select tool.
 Clicking on the find and select tool leads you to a different array of options to choose from. Since it was the missing cell values we needed to check, the "Go to Special" tab was selected. 
+
+The Go To Special feature in Microsoft Excel is a tool that allows you to quickly select specific types of cells in a worksheet. This can be useful for a variety of tasks, such as formatting cells, applying formulas, or deleting data.
+
 ![SELECT SPECIAL](https://user-images.githubusercontent.com/123303003/215731479-380e811d-7006-43c1-94af-fb929d27c556.png)
 
 
 Of all the columns, the beats per minute column had more than twice the dozen of values missing. A good way of populating the missing spaces in this particular dataset is by looking across the corresponding "Fav Genre" column to see how many of those who responded liked a particular genre.
-Suppose, 17 of the 70 missing spaces submitted "Rock music" as their favourite genre. I can now calculate the average beats per minute of responders who consider rock to be their favourite genre to populate the 17 missing spaces.
+Suppose, 17 of the 70 missing spaces submitted "Rock music" as their favourite genre. I can now calculate the average beats per minute of responders who consider rock to be their favourite genre to fill out the 17 missing spaces.
 The same can be done for the rest of the spaces. 
 ![ANALYZE DATA](https://user-images.githubusercontent.com/123303003/215732167-c5c2a2b9-de9b-4982-8d5a-8a73e8c84a5d.png)
 
 
-Of the total 89 missing values, approx 35% of the responders find themselves to be an admirer of rock music whilst pop and classical share the second spot with a combined total of 24 responders.
+Of the total missing values, most of the responders find themselves to be an admirer of rock music whilst pop and classical share the second spot with a combined total of 30.
 The next step would be to calculate the average BPM of every genre that is admired and appreciated by responders with a missing "BPM" value. 
 
 ![AVERAGE ROCK BPM](https://user-images.githubusercontent.com/123303003/215735085-3f55ffc3-6b74-4030-bc55-0379621dab81.png)
@@ -143,6 +164,10 @@ To be more precise, the columns that described how frequently responders listen 
 H) Shortening row values using the IF function:
 In this dataset, there are several columns that have values recorded as Yes or No. 
 Whilst the data is still good to work on, trimming it down to Y or N using the IF function would make the entire dataset more neat and presentable.
+
+The IF function in Microsoft Excel is a conditional function that returns a value based on whether a certain condition is true or false. The basic syntax of the IF function is as follows:
+
+                                        =IF(logical_test, [value_if_true], [value_if_false])
 
 ![YES](https://user-images.githubusercontent.com/123303003/215737633-1809b28e-3e38-47b8-ba42-c8a4703d0362.png)
 
