@@ -48,31 +48,47 @@ After the DATE function returns the output you asked of it, you can format the d
 
 ![DATE RESULT VALUES](https://user-images.githubusercontent.com/123303003/215726310-98df5782-6460-494e-a759-08eed91ebfb1.png)
 
-Since the cells highlighted have zeroes preceding the actual date and month, which does not seem to be the case in the 446 cells above it, I decided to customize the date format to maintain uniformity in my data.
-This can be achieved by customizing the mm/dd/yyyy into m/d/yyyy to remove zeroes that precede the day and month of our dates. 
+Moreover, the highlighted cells also have zeroes preceding the actual date and month which does fall in line with the format followed above. Although it is not an issue if you move forward with the highlighted output as it is, it's important for us to maintain uniformity. 
+Therefore, to rectify this, I decided to use the custom format from mm/dd/yyyy to m/d/yyyy in order to remove zeroes that precede the days as well as the months. 
+
 ![CUSTOM DATE](https://user-images.githubusercontent.com/123303003/215726551-624f281a-6f56-4fa0-93b0-a4f1197d8659.png)
 
 
--> The next 55 cells following B664 have been segregated from the timestamp column using text to columns. 
-Like I used in the first 446 cells, I could have extracted the date from these columns using the left function but I instead decided to use the text to columns. 
-To properly execute the text to column, I first copied the highlighted cells of the timestamp column into the newly created "fixed date" column. 
-The next step was to go to the text to columns tool in the data tools group and then use the delimited method to split and subsequently retain only the date from the combined date and time cell.
-In this case, I used space as a special character to separate the two, changed the date format to mm/dd/yyyy and avoided importing a new column for values in time format. 
+
+C) Creating an age group column to divide age into different classes using the MAX, MIN, and most importantly, the IFS function
+The decision to group age into different classes was made solely for the purpose of enhancing our visualization process. 
+To populate these groups, it is important to always be aware of the minimum and maximum values. To speed up this process, we use the MAX and MIN function in Microsoft Excel to extract the highest as well as the lowest of values, which, in our case, would be the maximum as well as the minimum age of individuals who responded to the survey. 
 
 
 
-C) Creating an age group column to divide age into different classes using the IFS function
 Before splitting the age column into different groups, it was imperative to figure out the maximum and minimum age in the entire array of values. 
 Using the MAX and MIN function, I was able to extract the highest as well as the lowest of values, in our case, the maximum as well as the minimum age. 
-Here, Minimum age = 10, Maximum age = 89.
+From a given set of values, the MAX and MIN function are useful in returning the maximun and minimum of values. 
+
+=MAX(number1, [number2], ...)
+
+Where "number1, [number2], ..." represents the set of values you want to find the maximum value of. 
+
+For example, to find the maximum value in a range of cells A1 to A10, you would write:
+=MAX(A1:A10)
+
+You can also include multiple ranges, such as:
+
+=MAX(A1:A10, C1:C10)
+
+This would find the maximum value across both ranges A1 to A10 and C1 to C10.
+
+In our case, the Minimum age = 10, Maximum age = 89.
 After figuring out the maximum and minimum age, I decided to divide the age column into 8 groups.
+
+This was achieved by using the IFS fucntion in Microsoft Excel.
 
 Using the IFS function, we pass on the following statements to return back
 ![IFS AGE](https://user-images.githubusercontent.com/123303003/215728656-4f7fd0cc-9d00-4586-834e-722f33473368.png)
 
 
 = IFS(D2 <= 19, "10-19", AND(D2 >19, D2<= 29), "20-29", AND(D2>29, D2<= 39), "30-39", AND(D2 > 39, D2 <= 49), "40-49", AND(D2>49, D2 <= 59), "50-59", AND(D2>59, D2<= 69), "60-69", AND(D2 >69, D2<=79), "70-79", D2>79, "80-89")
-
+--
 
 D) Making minute adjustments in the column "Primary streaming service" using filters
 Although most of the responders happen to be subscribed to a primary streaming service, some of the responses also mention people not having a go-to streaming service. 
