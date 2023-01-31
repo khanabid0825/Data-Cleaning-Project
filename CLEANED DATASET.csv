@@ -1,0 +1,737 @@
+Responders_Id,Date_fixed,Age Group,Primary streaming service,Favourite genre,Hours per day,While working (Fixed),Instrumentalist (Fixed),Composer (Fixed),Exploring new music (Fixed),Trying foreign music ,BPM,Anxiety score,Depression (Score),Insomnia (Score),OCD (Score)
+1,8/27/2022,10-19,Spotify,Latin,3,Y,Y,Y,Y,Y,156,Mild,Mild,Mild,Mild
+2,8/27/2022,60-69,Pandora,Rock,1.5,Y,N,N,Y,N,119,Moderate,Mild,Mild,Mild
+3,8/27/2022,10-19,Spotify,Video game music,4,N,N,N,N,Y,132,Moderate,Moderate,Severe,Mild
+4,8/27/2022,60-69,YouTube Music,Jazz,2.5,Y,N,Y,Y,Y,84,Severe,Moderate,Mild,Mild
+5,8/27/2022,10-19,Spotify,R&B,4,Y,N,N,Y,N,107,Moderate,Mild,Moderate,Severe
+6,8/27/2022,10-19,Spotify,Jazz,5,Y,Y,Y,Y,Y,86,Severe,Severe,Moderate,Moderate
+7,8/27/2022,10-19,YouTube Music,Video game music,3,Y,Y,N,Y,Y,66,Moderate,Severe,Moderate,Mild
+8,8/27/2022,20-29,Spotify,K pop,1,Y,N,N,Y,Y,95,Moderate,Mild,Moderate,Mild
+9,8/27/2022,10-19,Spotify,Rock,6,Y,N,N,N,N,94,Mild,Mild,Mild,Mild
+10,8/27/2022,10-19,No streaming service,R&B,1,Y,N,N,Y,Y,155,Mild,Mild,Moderate,Mild
+11,8/27/2022,10-19,Spotify,Country,3,Y,Y,N,Y,N,110,Moderate,Moderate,Moderate,Moderate
+12,8/27/2022,10-19,YouTube Music,EDM,8,Y,N,N,Y,N,125,Mild,Mild,Mild,Mild
+13,8/27/2022,10-19,Spotify,Hip hop,3,Y,N,N,Y,Y,112,Severe,Mild,Mild,Moderate
+14,8/27/2022,10-19,Spotify,Country,2,Y,N,N,Y,N,88,Mild,Mild,Mild,Mild
+15,8/27/2022,10-19,Spotify,Jazz,4,Y,Y,N,Y,Y,148,Moderate,Moderate,Moderate,Mild
+16,8/27/2022,10-19,Spotify,Pop,2,N,N,N,Y,Y,119,Moderate,Moderate,Moderate,Mild
+17,8/27/2022,10-19,Spotify,Hip hop,8,Y,N,N,Y,Y,103,Severe,Severe,Moderate,Mild
+18,8/27/2022,10-19,Spotify,Hip hop,12,Y,N,Y,Y,Y,120,Moderate,Moderate,Severe,Mild
+19,8/27/2022,10-19,Spotify,Rap,24,Y,N,N,Y,N,99,Moderate,Moderate,Mild,Mild
+20,8/27/2022,10-19,Spotify,Hip hop,3,N,N,N,N,N,120,Moderate,Mild,Mild,Mild
+21,8/27/2022,10-19,Apple Music,Hip hop,8,Y,N,N,Y,Y,120,Moderate,Severe,Mild,Mild
+22,8/28/2022,10-19,Spotify,Rap,4,Y,N,N,Y,N,125,Severe,Severe,Mild,Moderate
+23,8/28/2022,10-19,No streaming service,R&B,5,Y,N,N,Y,Y,118,Moderate,Moderate,Moderate,Moderate
+24,8/28/2022,10-19,Spotify,Pop,2,Y,N,N,N,Y,79,Mild,Mild,Severe,Moderate
+25,8/28/2022,10-19,Other streaming service,Rock,3,Y,Y,Y,Y,Y,84,Severe,Moderate,Severe,Severe
+26,8/28/2022,10-19,Spotify,Pop,2,N,N,N,Y,Y,169,Moderate,Moderate,Mild,Moderate
+27,8/28/2022,10-19,Spotify,Rock,12,Y,Y,Y,Y,Y,136,Severe,Moderate,Severe,Moderate
+28,8/28/2022,10-19,YouTube Music,Pop,6,Y,Y,Y,N,Y,101,Mild,Mild,Mild,Mild
+29,8/28/2022,10-19,Spotify,Pop,2,Y,Y,N,Y,Y,126,Moderate,Moderate,Moderate,Moderate
+30,8/28/2022,10-19,Apple Music,Pop,1,Y,N,N,Y,N,183,Severe,Mild,Mild,Moderate
+31,8/28/2022,20-29,Apple Music,Rock,5,Y,Y,N,Y,Y,124,Moderate,Moderate,Mild,Mild
+32,8/28/2022,10-19,Spotify,Classical,2,Y,N,N,N,N,120,Moderate,Moderate,Moderate,Mild
+33,8/28/2022,10-19,Spotify,Metal,6,Y,Y,N,Y,Y,139,Severe,Severe,Mild,Mild
+34,8/28/2022,10-19,Spotify,Rock,4,N,N,N,Y,Y,142,Moderate,Moderate,Moderate,Mild
+35,8/28/2022,10-19,Spotify,Classical,1,Y,N,N,N,N,75,Mild,Mild,Mild,Mild
+36,8/28/2022,10-19,Spotify,Pop,5,Y,Y,N,Y,N,120,Mild,Mild,Mild,Mild
+37,8/28/2022,20-29,Spotify,Pop,4,Y,N,N,N,Y,89,Moderate,Severe,Mild,Mild
+38,8/28/2022,10-19,Other streaming service,Pop,3,Y,N,N,Y,N,119,Mild,Mild,Moderate,Mild
+39,8/28/2022,20-29,Other streaming service,Rock,0.5,N,N,N,N,Y,140,Severe,Severe,Mild,Mild
+40,8/28/2022,20-29,Spotify,EDM,4,Y,N,N,Y,N,161,Moderate,Mild,Severe,Moderate
+41,8/28/2022,20-29,YouTube Music,Video game music,2,Y,Y,Y,Y,N,80,Moderate,Mild,Mild,Moderate
+42,8/28/2022,10-19,Spotify,Rock,5,Y,Y,N,Y,N,130,Moderate,Moderate,Moderate,Mild
+43,8/28/2022,30-39,YouTube Music,Video game music,0.25,N,N,N,Y,N,147,Mild,Mild,Severe,Mild
+44,8/28/2022,10-19,Spotify,Classical,3,Y,N,N,Y,Y,120,Moderate,Moderate,Severe,Mild
+45,8/28/2022,10-19,Spotify,Metal,4,Y,N,N,Y,Y,77,Mild,Mild,Severe,Mild
+46,8/28/2022,10-19,No streaming service,Folk,1,Y,Y,Y,N,N,118,Moderate,Mild,Mild,Moderate
+47,8/28/2022,30-39,Spotify,Classical,1,N,Y,Y,N,N,132,Severe,Severe,Mild,Mild
+48,8/28/2022,20-29,Spotify,Rock,3,Y,N,N,Y,Y,115,Severe,Moderate,Moderate,Mild
+49,8/28/2022,10-19,Spotify,Metal,5,Y,N,Y,Y,Y,157,Moderate,Severe,Moderate,Mild
+50,8/28/2022,10-19,Spotify,Pop,3,Y,N,N,N,Y,90,Moderate,Moderate,Mild,Moderate
+51,8/28/2022,10-19,Apple Music,EDM,2,Y,Y,N,Y,N,128,Mild,Mild,Mild,Mild
+52,8/28/2022,10-19,Spotify,K pop,6,Y,N,N,Y,Y,169,Moderate,Severe,Moderate,Moderate
+53,8/28/2022,20-29,Apple Music,Rap,1,N,N,N,N,Y,140,Severe,Moderate,Mild,Severe
+54,8/28/2022,20-29,Spotify,Pop,12,Y,N,N,Y,Y,96,Mild,Moderate,Moderate,Moderate
+55,8/28/2022,20-29,Spotify,Rock,4,Y,N,Y,Y,Y,126,Severe,Moderate,Moderate,Mild
+56,8/28/2022,10-19,Apple Music,Classical,2,Y,Y,N,Y,N,115,Mild,Mild,Mild,Mild
+57,8/28/2022,10-19,Spotify,Rock,6,Y,N,N,Y,N,91,Severe,Moderate,Mild,Severe
+58,8/28/2022,40-49,No streaming service,Rock,0,N,N,N,N,Y,124,Severe,Mild,Severe,Mild
+59,8/28/2022,20-29,Spotify,Folk,7,Y,N,N,Y,Y,55,Moderate,Moderate,Mild,Mild
+60,8/28/2022,20-29,No streaming service,Video game music,1,Y,Y,N,N,N,85,Moderate,Mild,Mild,Mild
+61,8/28/2022,10-19,YouTube Music,K pop,1,N,Y,N,Y,Y,160,Severe,Mild,Mild,Mild
+62,8/28/2022,20-29,Pandora,Rock,1,N,Y,N,Y,N,108,Severe,Moderate,Mild,Moderate
+63,8/28/2022,10-19,Other streaming service,Rock,2,Y,Y,N,N,N,156,Mild,Mild,Moderate,Moderate
+64,8/28/2022,20-29,Spotify,Metal,2,N,N,N,N,Y,170,Moderate,Moderate,Mild,Mild
+65,8/28/2022,30-39,Spotify,Rock,5,Y,N,N,N,Y,91,Severe,Severe,Mild,Mild
+66,8/28/2022,30-39,Spotify,Metal,6,Y,N,N,Y,Y,174,Moderate,Moderate,Severe,Mild
+67,8/28/2022,20-29,Spotify,Rock,3,N,N,N,Y,Y,130,Mild,Mild,Severe,Mild
+68,8/28/2022,20-29,Spotify,Hip hop,4,N,N,N,Y,N,140,Severe,Severe,Moderate,Severe
+69,8/28/2022,40-49,Apple Music,Metal,3,Y,Y,Y,Y,Y,130,Severe,Moderate,Severe,Mild
+70,8/28/2022,30-39,No streaming service,Rock,2,Y,Y,Y,Y,N,127,Moderate,Mild,Mild,Mild
+71,8/28/2022,10-19,YouTube Music,Rock,3,Y,N,N,Y,N,160,Severe,Moderate,Moderate,Mild
+72,8/28/2022,30-39,Spotify,Rock,2,Y,N,N,Y,Y,124,Severe,Mild,Mild,Moderate
+73,8/28/2022,10-19,Spotify,Rock,4,Y,N,N,N,Y,124,Severe,Severe,Mild,Mild
+74,8/28/2022,20-29,Spotify,Hip hop,2,Y,Y,Y,Y,Y,165,Moderate,Mild,Mild,Mild
+75,8/28/2022,20-29,Apple Music,Hip hop,0.5,N,N,N,N,N,113,Moderate,Moderate,Mild,Mild
+76,8/28/2022,10-19,Spotify,Jazz,5,Y,Y,Y,Y,Y,167,Moderate,Moderate,Severe,Moderate
+77,8/28/2022,10-19,Spotify,Metal,5,Y,N,N,Y,Y,95,Moderate,Mild,Mild,Mild
+78,8/28/2022,10-19,Spotify,R&B,10,Y,N,N,Y,Y,110,Moderate,Mild,Mild,Moderate
+79,8/28/2022,10-19,YouTube Music,EDM,2,N,N,N,N,Y,150,Severe,Mild,Moderate,Severe
+80,8/28/2022,10-19,YouTube Music,Hip hop,4,Y,N,N,Y,Y,93,Mild,Moderate,Mild,Mild
+81,8/28/2022,10-19,Spotify,Rock,5,N,Y,Y,Y,Y,90,Severe,Severe,Moderate,Mild
+82,8/28/2022,10-19,Spotify,Jazz,3,Y,N,N,Y,N,118,Mild,Mild,Mild,Mild
+83,8/28/2022,20-29,Spotify,K pop,2,Y,N,N,Y,Y,126,Moderate,Severe,Moderate,Mild
+84,8/28/2022,10-19,Spotify,Rock,2.5,Y,Y,Y,Y,Y,103,Mild,Mild,Mild,Mild
+85,8/28/2022,10-19,Spotify,R&B,3,Y,N,N,Y,Y,77,Moderate,Moderate,Mild,Mild
+86,8/28/2022,30-39,Spotify,Rock,1,Y,N,N,N,N,115,Severe,Severe,Moderate,Severe
+87,8/28/2022,10-19,Spotify,Jazz,7,Y,Y,N,N,N,110,Mild,Mild,Mild,Mild
+88,8/28/2022,30-39,No streaming service,Metal,1,N,N,N,N,Y,139,Moderate,Mild,Moderate,Mild
+89,8/28/2022,20-29,Spotify,R&B,1,N,N,N,N,N,113,Mild,Mild,Mild,Mild
+90,8/28/2022,30-39,Spotify,Hip hop,3,Y,N,N,N,N,157,Mild,Mild,Moderate,Mild
+91,8/28/2022,30-39,Spotify,Metal,5,Y,Y,N,Y,N,160,Moderate,Moderate,Moderate,Mild
+92,8/28/2022,40-49,No streaming service,Video game music,6,Y,Y,Y,Y,Y,109,Moderate,Moderate,Severe,Mild
+93,8/28/2022,20-29,Spotify,Classical,4,Y,N,N,Y,Y,175,Moderate,Moderate,Moderate,Mild
+94,8/28/2022,30-39,YouTube Music,Rock,1,Y,N,N,Y,N,110,Moderate,Mild,Mild,Mild
+95,8/28/2022,10-19,YouTube Music,Video game music,4,Y,N,N,Y,N,162,Severe,Mild,Mild,Moderate
+96,8/28/2022,20-29,Spotify,Metal,10,Y,N,N,Y,Y,189,Severe,Moderate,Mild,Moderate
+97,8/28/2022,20-29,Spotify,EDM,3,N,N,Y,Y,Y,121,Mild,Mild,Moderate,Mild
+98,8/28/2022,30-39,Spotify,Rock,2,N,N,N,Y,N,200,Severe,Severe,Moderate,Mild
+99,8/28/2022,10-19,Spotify,Metal,4,Y,N,N,Y,Y,105,Moderate,Mild,Mild,Mild
+100,8/28/2022,10-19,Spotify,Rock,8,Y,N,N,N,N,193,Severe,Moderate,Moderate,Mild
+101,8/28/2022,10-19,Spotify,Metal,2,N,Y,Y,Y,Y,149,Mild,Moderate,Moderate,Mild
+102,8/28/2022,20-29,No streaming service,Classical,0.5,N,Y,N,N,N,140,Mild,Mild,Mild,Mild
+103,8/28/2022,10-19,Apple Music,Metal,5,Y,N,N,Y,N,134,Severe,Severe,Moderate,Moderate
+104,8/28/2022,20-29,YouTube Music,Rock,1,N,N,N,Y,N,120,Moderate,Moderate,Mild,Mild
+105,8/28/2022,20-29,Spotify,Rock,3,Y,N,N,Y,Y,170,Moderate,Moderate,Mild,Mild
+106,8/28/2022,20-29,YouTube Music,Metal,2,Y,Y,N,Y,Y,107,Severe,Moderate,Severe,Mild
+107,8/28/2022,40-49,Spotify,Pop,3,Y,N,N,N,Y,113,Severe,Moderate,Moderate,Mild
+108,8/28/2022,20-29,Spotify,Pop,2,Y,Y,N,Y,N,126,Moderate,Moderate,Moderate,Moderate
+109,8/28/2022,30-39,Other streaming service,Metal,4,Y,N,N,Y,Y,161,Moderate,Moderate,Mild,Mild
+110,8/28/2022,20-29,YouTube Music,Metal,3,Y,N,Y,Y,N,139,Severe,Mild,Severe,Severe
+111,8/28/2022,20-29,Spotify,Metal,2,Y,N,N,Y,Y,100,Moderate,Mild,Mild,Mild
+112,8/28/2022,10-19,Spotify,Pop,3,N,N,N,N,N,140,Moderate,Moderate,Moderate,Mild
+113,8/28/2022,10-19,YouTube Music,Pop,4,Y,N,N,Y,N,156,Moderate,Severe,Moderate,Mild
+114,8/28/2022,20-29,Spotify,Rock,2,Y,Y,N,Y,Y,98,Severe,Moderate,Mild,Mild
+115,8/28/2022,10-19,Spotify,K pop,8,Y,N,N,Y,Y,100,Moderate,Mild,Mild,Mild
+116,8/28/2022,20-29,Spotify,Hip hop,4,Y,N,N,Y,Y,78,Moderate,Moderate,Moderate,Moderate
+117,8/28/2022,20-29,Spotify,Metal,2,N,Y,N,N,Y,117,Moderate,Mild,Mild,Mild
+118,8/28/2022,20-29,Spotify,EDM,1,N,N,Y,Y,N,128,Mild,Moderate,Moderate,Mild
+119,8/28/2022,10-19,Spotify,Rock,3,Y,N,N,Y,N,130,Moderate,Severe,Moderate,Moderate
+120,8/28/2022,20-29,Spotify,Folk,0.5,N,N,N,Y,N,130,Moderate,Moderate,Mild,Mild
+121,8/28/2022,20-29,Spotify,Rock,2,N,N,N,Y,Y,124,Moderate,Severe,Moderate,Mild
+122,8/28/2022,10-19,Apple Music,Rock,3,Y,N,N,Y,Y,126,Moderate,Mild,Severe,Moderate
+123,8/28/2022,10-19,Spotify,Hip hop,2,Y,Y,Y,Y,Y,122,Severe,Moderate,Moderate,Mild
+124,8/28/2022,20-29,YouTube Music,Rock,1,N,N,N,Y,N,179,Moderate,Moderate,Mild,Mild
+125,8/28/2022,20-29,Other streaming service,Jazz,5,Y,N,N,Y,Y,200,Moderate,Mild,Mild,Mild
+126,8/28/2022,20-29,Spotify,EDM,10,N,Y,Y,N,Y,128,Moderate,Moderate,Moderate,Mild
+127,8/28/2022,10-19,Spotify,Pop,4,Y,Y,Y,Y,Y,130,Moderate,Moderate,Moderate,Moderate
+128,8/28/2022,10-19,Spotify,Rock,2,Y,Y,Y,Y,N,120,Moderate,Severe,Moderate,Moderate
+129,8/28/2022,20-29,Spotify,Metal,1,N,N,N,Y,N,86,Moderate,Moderate,Moderate,Mild
+130,8/28/2022,30-39,Spotify,Rock,6,Y,N,N,Y,Y,166,Moderate,Mild,Mild,Mild
+131,8/28/2022,20-29,YouTube Music,Video game music,1,Y,Y,N,Y,N,110,Moderate,Moderate,Mild,Mild
+132,8/28/2022,20-29,Spotify,Rock,6,Y,N,N,N,N,144,Severe,Severe,Moderate,Mild
+133,8/28/2022,30-39,Spotify,Pop,7,Y,N,N,Y,Y,120,Severe,Severe,Mild,Severe
+134,8/28/2022,30-39,Other streaming service,EDM,1,N,N,N,Y,N,120,Mild,Moderate,Mild,Mild
+135,8/28/2022,20-29,Spotify,Rock,3,Y,Y,N,Y,N,160,Severe,Severe,Mild,Mild
+136,8/28/2022,10-19,Spotify,Video game music,2,Y,Y,N,N,Y,101,Severe,Mild,Severe,Moderate
+137,8/28/2022,10-19,Spotify,Classical,3,Y,Y,N,Y,N,122,Mild,Mild,Mild,Mild
+138,8/28/2022,10-19,Apple Music,Pop,2,Y,Y,N,Y,Y,119,Moderate,Moderate,Mild,Mild
+139,8/28/2022,10-19,YouTube Music,Pop,3,Y,N,Y,N,N,119,Mild,Mild,Moderate,Mild
+140,8/28/2022,20-29,Spotify,Pop,1.5,Y,N,N,N,N,61,Moderate,Moderate,Mild,Mild
+141,8/28/2022,10-19,Spotify,Lofi,4,Y,N,N,Y,Y,79,Mild,Severe,Mild,Mild
+142,8/28/2022,10-19,Spotify,Rap,2,Y,N,N,Y,Y,126,Mild,Severe,Mild,Mild
+143,8/28/2022,20-29,Spotify,Metal,10,Y,N,N,Y,Y,185,Moderate,Moderate,Moderate,Mild
+144,8/28/2022,50-59,Spotify,Pop,7,Y,N,N,Y,Y,92,Mild,Mild,Mild,Mild
+145,8/28/2022,20-29,Spotify,EDM,1,Y,N,N,N,N,107,Mild,Severe,Mild,Mild
+146,8/28/2022,30-39,Spotify,Metal,2,N,N,N,N,N,120,Mild,Moderate,Mild,Mild
+147,8/28/2022,20-29,Other streaming service,Jazz,6,Y,Y,Y,Y,Y,140,Severe,Severe,Severe,Moderate
+148,8/28/2022,10-19,Spotify,Jazz,2,Y,Y,Y,Y,N,94,Moderate,Mild,Mild,Moderate
+149,8/28/2022,20-29,Spotify,Folk,3,Y,Y,N,Y,N,160,Severe,Severe,Mild,Mild
+150,8/28/2022,10-19,Spotify,EDM,8,Y,N,N,Y,N,174,Moderate,Severe,Severe,Mild
+151,8/28/2022,20-29,Spotify,Pop,3,Y,N,N,Y,Y,136,Moderate,Severe,Moderate,Mild
+152,8/28/2022,30-39,Spotify,Rock,3,Y,Y,Y,Y,Y,144,Moderate,Moderate,Moderate,Moderate
+153,8/28/2022,20-29,No streaming service,Rock,3,Y,N,N,N,N,77,Severe,Severe,Mild,Mild
+154,8/28/2022,20-29,Spotify,Pop,2,N,Y,N,N,N,120,Moderate,Moderate,Moderate,Mild
+155,8/28/2022,20-29,Spotify,Rock,1,N,N,N,N,N,124,Severe,Moderate,Mild,Severe
+156,8/28/2022,20-29,Spotify,Metal,2,Y,Y,N,Y,Y,139,Mild,Mild,Mild,Moderate
+157,8/28/2022,10-19,Spotify,Pop,2,Y,Y,N,N,Y,119,Moderate,Mild,Mild,Mild
+158,8/28/2022,20-29,No streaming service,Rock,4,Y,N,N,Y,Y,194,Moderate,Severe,Mild,Moderate
+159,8/28/2022,40-49,YouTube Music,Pop,4,Y,N,N,Y,N,60,Moderate,Mild,Mild,Moderate
+160,8/28/2022,10-19,Spotify,Metal,1,Y,Y,N,Y,Y,190,Moderate,Severe,Severe,Mild
+161,8/28/2022,20-29,Spotify,R&B,2,N,N,N,N,Y,87,Mild,Mild,Moderate,Mild
+162,8/28/2022,10-19,Other streaming service,K pop,2,Y,N,N,N,Y,122,Mild,Mild,Mild,Mild
+163,8/28/2022,40-49,Other streaming service,EDM,1,Y,N,N,Y,N,156,Severe,Severe,Mild,Mild
+164,8/28/2022,20-29,Spotify,Metal,3,Y,Y,Y,Y,N,150,Mild,Mild,Moderate,Mild
+165,8/28/2022,20-29,Spotify,Metal,10,Y,N,N,Y,Y,194,Severe,Severe,Mild,Mild
+166,8/28/2022,10-19,Spotify,Metal,1,N,N,Y,Y,Y,160,Moderate,Moderate,Mild,Mild
+167,8/28/2022,20-29,Spotify,Metal,3,Y,N,N,Y,Y,171,Mild,Mild,Mild,Mild
+168,8/28/2022,20-29,Spotify,Rock,1.5,Y,N,N,N,N,95,Moderate,Moderate,Moderate,Moderate
+169,8/28/2022,10-19,Spotify,K pop,3,Y,Y,N,Y,Y,114,Severe,Severe,Moderate,Mild
+170,8/28/2022,40-49,YouTube Music,Rock,2.5,Y,Y,N,N,Y,148,Severe,Severe,Moderate,Moderate
+171,8/28/2022,60-69,Pandora,Gospel,2,Y,N,N,N,N,119,Mild,Mild,Mild,Mild
+172,8/28/2022,10-19,YouTube Music,Metal,5,Y,N,N,N,Y,136,Mild,Moderate,Mild,Mild
+173,8/28/2022,20-29,Apple Music,Pop,2,Y,N,N,Y,N,141,Moderate,Mild,Mild,Mild
+174,8/28/2022,20-29,Spotify,Metal,2,N,N,Y,N,N,146,Mild,Moderate,Moderate,Mild
+175,8/28/2022,10-19,No streaming service,Video game music,2,N,Y,Y,Y,N,120,Moderate,Mild,Mild,Mild
+176,8/28/2022,10-19,Spotify,R&B,2,Y,N,N,N,Y,164,Moderate,Moderate,Mild,Mild
+177,8/28/2022,30-39,Spotify,Rock,1,Y,N,N,Y,Y,124,Mild,Mild,Mild,Mild
+178,8/28/2022,10-19,YouTube Music,Pop,1.5,Y,N,N,Y,N,119,Severe,Moderate,Moderate,Mild
+179,8/28/2022,20-29,Spotify,Folk,5,Y,Y,Y,Y,Y,128,Severe,Moderate,Mild,Mild
+180,8/28/2022,30-39,Spotify,Rock,0.5,N,N,N,Y,Y,124,Moderate,Moderate,Moderate,Moderate
+181,8/28/2022,10-19,Spotify,Rock,2,Y,N,N,N,Y,124,Moderate,Mild,Mild,Moderate
+182,8/28/2022,30-39,Other streaming service,Pop,0.5,N,N,N,N,N,119,Severe,Mild,Mild,Mild
+183,8/28/2022,20-29,No streaming service,Rock,2,Y,N,N,N,Y,101,Severe,Severe,Mild,Mild
+184,8/28/2022,20-29,Apple Music,R&B,2.5,Y,N,N,N,N,114,Moderate,Moderate,Moderate,Moderate
+185,8/28/2022,10-19,Spotify,K pop,2,Y,Y,N,Y,Y,98,Moderate,Mild,Mild,Moderate
+186,8/28/2022,10-19,Apple Music,Pop,2,N,N,N,Y,N,145,Severe,#N/A,Moderate,Severe
+187,8/28/2022,10-19,Spotify,Pop,1,Y,N,N,Y,Y,94,Moderate,Moderate,Mild,Mild
+188,8/28/2022,30-39,Spotify,Classical,4,Y,Y,N,N,Y,103,Moderate,Severe,Severe,Moderate
+189,8/28/2022,20-29,Spotify,Rock,5,Y,N,N,N,N,124,Mild,Severe,Mild,Mild
+190,8/28/2022,10-19,Spotify,Rock,2,Y,Y,Y,N,N,112,Moderate,Moderate,Severe,Mild
+191,8/28/2022,20-29,Spotify,Rock,2,Y,Y,N,Y,Y,124,Moderate,Moderate,Moderate,Mild
+192,8/28/2022,10-19,Spotify,R&B,2,Y,N,N,Y,Y,118,Moderate,Mild,Mild,Mild
+193,8/28/2022,20-29,Spotify,Video game music,1,Y,Y,N,Y,Y,120,Mild,Moderate,Mild,Mild
+194,8/28/2022,20-29,Apple Music,R&B,4,Y,N,N,Y,Y,113,Severe,Severe,Mild,Mild
+195,8/28/2022,30-39,Spotify,Rock,1,N,Y,N,Y,N,162,Severe,Moderate,Severe,Severe
+196,8/28/2022,20-29,Other streaming service,Pop,4,Y,N,N,N,N,119,Severe,Moderate,Moderate,Mild
+197,8/28/2022,10-19,Spotify,Rock,5,Y,N,N,Y,Y,111,Severe,Severe,Severe,Mild
+198,8/28/2022,20-29,,Country,5,Y,N,N,Y,N,85,Severe,Severe,Severe,Moderate
+199,8/28/2022,30-39,Spotify,Rock,7,Y,N,N,Y,Y,134,Severe,Mild,Moderate,Severe
+200,8/28/2022,20-29,YouTube Music,Rock,2,Y,N,N,Y,N,172,Severe,Severe,Moderate,Mild
+201,8/28/2022,20-29,Spotify,Rock,3,Y,N,N,Y,Y,180,Severe,Moderate,Mild,Mild
+202,8/28/2022,20-29,YouTube Music,Pop,2,Y,N,N,N,N,120,Moderate,Moderate,Severe,Mild
+203,8/28/2022,10-19,Spotify,Rock,3,Y,N,Y,Y,Y,76,Severe,Severe,Moderate,Mild
+204,8/28/2022,40-49,Other streaming service,Folk,3,Y,N,N,Y,Y,130,Severe,Severe,Severe,Mild
+205,8/28/2022,20-29,Spotify,Rock,3,Y,N,N,N,N,124,Severe,Severe,Mild,Severe
+206,8/28/2022,20-29,Spotify,Metal,5,Y,Y,Y,Y,Y,109,Severe,Severe,Severe,Severe
+207,8/28/2022,20-29,No streaming service,Classical,6,Y,N,Y,N,Y,96,Moderate,Moderate,Moderate,Severe
+208,8/28/2022,10-19,Spotify,R&B,2,N,N,N,N,Y,148,Severe,Moderate,Severe,Mild
+209,8/28/2022,40-49,YouTube Music,Metal,2,N,N,N,Y,N,139,Severe,Mild,Moderate,Moderate
+210,8/28/2022,30-39,Spotify,Rock,1,N,Y,N,Y,N,129,Moderate,Mild,Mild,Mild
+211,8/28/2022,30-39,Spotify,Pop,1,Y,N,N,Y,Y,81,Mild,Mild,Mild,Mild
+212,8/28/2022,20-29,Spotify,Rock,3,N,N,N,Y,N,136,Severe,Severe,Moderate,Mild
+213,8/28/2022,10-19,Spotify,Rap,3,Y,N,N,Y,Y,155,Severe,Severe,Mild,Mild
+214,8/28/2022,20-29,Spotify,Pop,1,N,N,N,N,Y,119,Moderate,Severe,Moderate,Mild
+215,8/28/2022,10-19,Spotify,Rock,6,Y,N,N,Y,Y,52,Moderate,Mild,Mild,Mild
+216,8/28/2022,30-39,Spotify,Rock,4,Y,N,N,Y,N,97,Severe,Mild,Moderate,Moderate
+217,8/28/2022,30-39,Spotify,Metal,2,Y,N,N,Y,Y,92,Severe,Moderate,Moderate,Moderate
+218,8/28/2022,20-29,Spotify,Folk,2,Y,Y,N,Y,Y,100,Moderate,Moderate,Moderate,Mild
+219,8/28/2022,20-29,Spotify,Rock,3,Y,N,N,Y,Y,120,Severe,Moderate,Mild,Mild
+220,8/28/2022,30-39,No streaming service,Video game music,8,Y,Y,Y,N,Y,143,Moderate,Moderate,Moderate,Mild
+221,8/28/2022,10-19,Spotify,Rock,3,Y,Y,N,Y,N,118,Severe,Mild,Mild,Mild
+222,8/28/2022,10-19,Spotify,K pop,2,Y,N,N,Y,Y,130,Moderate,Mild,Mild,Mild
+223,8/28/2022,20-29,Spotify,Pop,7,Y,N,N,N,Y,120,Mild,Mild,Mild,Mild
+224,8/28/2022,10-19,YouTube Music,K pop,12,Y,N,N,Y,Y,126,Mild,Moderate,Moderate,Mild
+225,8/28/2022,30-39,YouTube Music,Pop,9,Y,N,N,Y,Y,158,Severe,Mild,Mild,Mild
+226,8/28/2022,10-19,Spotify,Pop,2,Y,N,N,Y,Y,160,Moderate,Moderate,Mild,Mild
+227,8/28/2022,20-29,Spotify,Folk,1,Y,N,N,N,Y,110,Severe,Moderate,Mild,Mild
+228,8/28/2022,30-39,Other streaming service,Country,1,N,N,N,N,N,119,Severe,Severe,Mild,Mild
+229,8/28/2022,40-49,Apple Music,Metal,2,Y,N,N,Y,Y,120,Mild,Moderate,Mild,Mild
+230,8/28/2022,60-69,No streaming service,Rock,4,Y,N,N,N,N,200,Moderate,Moderate,Mild,Mild
+231,8/28/2022,10-19,Spotify,Rock,2,Y,Y,N,Y,Y,136,Moderate,Moderate,Mild,Moderate
+232,8/28/2022,20-29,YouTube Music,Rock,6,Y,N,N,Y,N,104,Mild,Mild,Mild,Mild
+233,8/28/2022,30-39,Spotify,Country,4,Y,Y,Y,Y,Y,90,Severe,Severe,Moderate,Mild
+234,8/28/2022,30-39,Other streaming service,Rock,1,N,N,N,N,N,120,Mild,Severe,Moderate,Mild
+235,8/28/2022,30-39,Spotify,Folk,6,Y,N,N,Y,Y,89,Severe,Mild,Moderate,Mild
+236,8/28/2022,30-39,Spotify,Metal,2,N,Y,N,Y,N,95,Moderate,Moderate,Moderate,Moderate
+237,8/28/2022,20-29,Spotify,Folk,5,Y,N,Y,Y,Y,140,Mild,Severe,Moderate,Mild
+238,8/28/2022,50-59,No streaming service,Pop,1.5,N,N,N,Y,Y,92,Mild,Mild,Mild,Mild
+239,8/28/2022,20-29,Spotify,Metal,5,Y,Y,Y,Y,Y,120,Moderate,Severe,Mild,Mild
+240,8/28/2022,20-29,Spotify,EDM,2,Y,N,Y,Y,N,128,Moderate,Moderate,Mild,Mild
+241,8/28/2022,10-19,Apple Music,K pop,4,Y,Y,N,Y,Y,140,Severe,Severe,Moderate,Mild
+242,8/28/2022,10-19,Spotify,Rock,2,Y,Y,Y,Y,N,124,Moderate,Moderate,Moderate,Mild
+243,8/28/2022,20-29,Spotify,Classical,5,Y,Y,Y,Y,Y,115,Moderate,Mild,Mild,Mild
+244,8/28/2022,30-39,YouTube Music,EDM,6,Y,N,N,Y,Y,136,Severe,Moderate,Moderate,Moderate
+245,8/28/2022,30-39,Spotify,Rock,1,N,N,N,N,Y,132,Mild,Severe,Mild,Mild
+246,8/28/2022,30-39,Spotify,Pop,6,Y,Y,N,Y,Y,107,Severe,Moderate,Severe,Moderate
+247,8/28/2022,10-19,Spotify,Classical,4,N,Y,N,Y,Y,135,Moderate,Severe,Mild,Severe
+248,8/28/2022,20-29,Apple Music,EDM,2,N,N,N,N,Y,171,Severe,Mild,Mild,Moderate
+249,8/28/2022,20-29,Spotify,Metal,2,N,Y,Y,N,Y,220,Mild,Mild,Mild,Mild
+250,8/28/2022,10-19,Spotify,EDM,2,Y,N,N,N,N,171,Severe,Moderate,Mild,Moderate
+251,8/28/2022,10-19,Spotify,Lofi,4,Y,N,Y,Y,N,85,Moderate,Mild,Mild,Moderate
+252,8/28/2022,20-29,Spotify,EDM,2,Y,Y,N,N,Y,174,Severe,Moderate,Moderate,Moderate
+253,8/28/2022,20-29,Other streaming service,Rap,6,Y,N,N,Y,Y,87,Mild,Mild,Mild,Moderate
+254,8/28/2022,20-29,Spotify,Hip hop,3,Y,N,N,Y,Y,77,Moderate,Moderate,Severe,Mild
+255,8/28/2022,10-19,No streaming service,Rock,5,Y,N,N,Y,Y,126,Severe,Moderate,Mild,Moderate
+256,8/28/2022,10-19,No streaming service,Video game music,0.5,Y,Y,N,N,Y,136,Moderate,Mild,Mild,Mild
+257,8/29/2022,20-29,YouTube Music,Video game music,1,Y,N,N,Y,Y,80,Mild,Mild,Mild,Moderate
+258,8/29/2022,20-29,Spotify,Metal,10,Y,N,N,Y,Y,92,Severe,Severe,Mild,Mild
+259,8/29/2022,10-19,Spotify,Pop,2,Y,N,N,N,Y,120,Moderate,Moderate,Mild,Mild
+260,8/29/2022,30-39,Apple Music,Classical,0.5,N,N,N,Y,N,115,Mild,Mild,Moderate,Moderate
+261,8/29/2022,30-39,YouTube Music,Rock,1,N,N,N,N,Y,138,Severe,Severe,Moderate,Moderate
+262,8/29/2022,10-19,No streaming service,Metal,2,Y,Y,N,Y,Y,150,Moderate,Moderate,Moderate,Mild
+263,8/29/2022,20-29,Spotify,Country,3,Y,N,N,Y,N,108,Mild,Severe,Mild,Moderate
+264,8/29/2022,20-29,Spotify,Country,3,N,N,N,Y,Y,119,Severe,Moderate,Mild,Moderate
+265,8/29/2022,10-19,Spotify,Country,2,Y,N,N,Y,N,125,Moderate,Mild,Mild,Moderate
+266,8/29/2022,20-29,No streaming service,Pop,1,N,N,N,N,Y,119,Severe,Severe,Moderate,Severe
+267,8/29/2022,30-39,Spotify,Classical,8,Y,Y,N,Y,Y,115,Moderate,Moderate,Moderate,Moderate
+268,8/29/2022,20-29,Spotify,Pop,1,Y,Y,N,Y,Y,85,Moderate,Mild,Mild,Mild
+269,8/29/2022,30-39,YouTube Music,Folk,1,N,N,Y,Y,Y,113,Moderate,Mild,Mild,Mild
+270,8/29/2022,20-29,YouTube Music,Pop,1,N,N,N,Y,N,86,Mild,Moderate,Mild,Mild
+271,8/29/2022,10-19,Spotify,Rock,5,Y,Y,N,Y,N,141,Mild,Mild,Mild,Moderate
+272,8/29/2022,10-19,Other streaming service,EDM,5,Y,N,N,Y,Y,97,Mild,Mild,Mild,Moderate
+273,8/29/2022,20-29,Spotify,Metal,4,Y,N,N,Y,Y,139,Moderate,Severe,Moderate,Mild
+274,8/29/2022,20-29,No streaming service,Video game music,8,Y,N,Y,Y,N,120,Moderate,Moderate,Severe,Severe
+275,8/29/2022,20-29,Other streaming service,Rock,0.7,N,N,N,N,N,144,Moderate,Moderate,Severe,Mild
+276,8/29/2022,10-19,Spotify,Video game music,3,N,N,N,N,N,84,Moderate,Moderate,Mild,Moderate
+277,8/29/2022,10-19,Spotify,Hip hop,7,Y,N,N,N,Y,84,Severe,Severe,Mild,Moderate
+278,8/29/2022,20-29,No streaming service,Video game music,1.5,N,Y,Y,N,Y,60,Severe,Moderate,Mild,Mild
+279,8/29/2022,10-19,Spotify,Video game music,4,Y,Y,Y,Y,Y,81,Severe,Moderate,Moderate,Moderate
+280,8/29/2022,20-29,Spotify,Metal,4,Y,N,N,Y,Y,150,Severe,Severe,Moderate,Moderate
+281,8/29/2022,10-19,Other streaming service,Video game music,10,Y,N,Y,N,N,95,Moderate,Mild,Moderate,Mild
+282,8/29/2022,20-29,Spotify,Rock,2,Y,Y,Y,Y,N,138,Moderate,Severe,Moderate,Mild
+283,8/29/2022,20-29,Apple Music,Rock,2,Y,N,N,N,N,124,Moderate,Moderate,Mild,Mild
+284,8/29/2022,20-29,Spotify,Jazz,6,Y,N,N,Y,Y,140,Severe,Severe,Moderate,Mild
+285,8/29/2022,20-29,Spotify,Rock,0.5,Y,Y,N,Y,Y,139,Severe,Mild,Mild,Mild
+286,8/29/2022,20-29,Spotify,Pop,2,Y,Y,Y,Y,Y,100,Severe,Moderate,Moderate,Moderate
+287,8/29/2022,10-19,Spotify,Rock,5,Y,N,N,Y,Y,124,Severe,Severe,Severe,Moderate
+288,8/29/2022,10-19,Apple Music,Pop,3,Y,Y,Y,Y,N,120,Severe,Severe,Severe,Mild
+289,8/29/2022,20-29,Other streaming service,Rock,4.5,Y,N,N,N,Y,124,Moderate,Mild,Severe,Moderate
+290,8/29/2022,40-49,Other streaming service,Rock,3,Y,N,N,Y,Y,178,Mild,Moderate,Moderate,Mild
+291,8/29/2022,20-29,Spotify,Rock,20,Y,N,N,Y,Y,124,Severe,Severe,Severe,Severe
+292,8/29/2022,10-19,Spotify,Pop,1,N,N,N,Y,N,100,Mild,Mild,Mild,Mild
+293,8/29/2022,10-19,Spotify,Metal,2.5,N,Y,Y,Y,N,110,Moderate,Mild,Mild,Mild
+294,8/29/2022,10-19,Spotify,Rock,1,N,N,N,Y,Y,108,Severe,Severe,Moderate,Mild
+295,8/29/2022,20-29,Spotify,Jazz,2,N,Y,N,N,Y,124,Severe,Mild,Mild,Severe
+296,8/29/2022,10-19,No streaming service,Metal,5,Y,Y,N,Y,N,161,Moderate,Moderate,Severe,Mild
+297,8/29/2022,20-29,Apple Music,Metal,3,Y,Y,N,Y,N,200,Moderate,Moderate,Moderate,Mild
+298,8/29/2022,10-19,Spotify,Rock,3,Y,Y,N,Y,N,124,Severe,Severe,Moderate,Mild
+299,8/29/2022,10-19,Spotify,Rock,0.5,N,N,N,N,Y,156,Severe,Mild,Mild,Mild
+300,8/29/2022,20-29,Apple Music,Country,8,Y,Y,Y,Y,N,120,Severe,Severe,Mild,Moderate
+301,8/29/2022,30-39,Spotify,Metal,2,Y,N,N,Y,Y,139,Moderate,Mild,Mild,Mild
+302,8/29/2022,20-29,Spotify,Rock,3,Y,Y,Y,Y,Y,90,Severe,Severe,Moderate,Mild
+303,8/29/2022,20-29,Spotify,Hip hop,3,Y,N,N,Y,Y,85,Severe,Severe,Mild,Mild
+304,8/29/2022,20-29,Apple Music,Metal,5,Y,Y,N,Y,Y,171,Severe,Moderate,Moderate,Moderate
+305,8/29/2022,20-29,Apple Music,Rock,1.5,Y,N,Y,Y,Y,108,Severe,Moderate,Mild,Mild
+306,8/29/2022,50-59,No streaming service,Pop,1,Y,N,N,N,N,105,Moderate,Moderate,Severe,Mild
+307,8/29/2022,10-19,Spotify,Pop,2,Y,Y,N,Y,N,76,Moderate,Moderate,Mild,Moderate
+308,8/29/2022,20-29,Spotify,Pop,1,Y,N,N,N,N,108,Moderate,Moderate,Mild,Mild
+309,8/29/2022,20-29,Spotify,Pop,4,Y,N,N,Y,Y,140,Severe,Moderate,Mild,Severe
+310,8/29/2022,30-39,Spotify,EDM,1,Y,N,N,Y,Y,200,Moderate,Moderate,Moderate,Mild
+311,8/29/2022,40-49,Spotify,Folk,2,Y,N,N,Y,N,147,Mild,Mild,Mild,Mild
+312,8/29/2022,20-29,Spotify,EDM,2,Y,Y,Y,Y,Y,120,Moderate,Moderate,Mild,Mild
+313,8/29/2022,30-39,Spotify,Rock,2,N,N,N,Y,N,158,Moderate,Moderate,Mild,Mild
+314,8/29/2022,30-39,No streaming service,Rock,1,N,N,N,N,N,110,Severe,Moderate,Mild,Mild
+315,8/29/2022,20-29,YouTube Music,Country,6,Y,N,N,Y,N,103,Moderate,Moderate,Mild,Mild
+316,8/29/2022,10-19,Spotify,Rock,2,Y,N,N,Y,Y,93,Mild,Severe,Mild,Mild
+317,8/29/2022,20-29,Spotify,Rock,4,Y,Y,N,Y,N,62,Moderate,Moderate,Moderate,Mild
+318,8/29/2022,10-19,Spotify,Rock,1.5,Y,N,N,Y,Y,180,Severe,Moderate,Moderate,Mild
+319,8/29/2022,20-29,Spotify,Metal,3,Y,N,N,N,N,150,Severe,Severe,Moderate,Mild
+320,8/29/2022,10-19,Spotify,Rock,4,Y,N,Y,Y,N,105,Severe,Moderate,Moderate,Mild
+321,8/29/2022,10-19,Spotify,Rap,10,Y,N,N,Y,N,140,Moderate,Mild,Mild,Severe
+322,8/29/2022,30-39,Spotify,Rock,3,Y,N,N,N,Y,124,Moderate,Moderate,Moderate,Moderate
+323,8/29/2022,20-29,Apple Music,Rock,3,N,N,N,Y,N,161,Moderate,Moderate,Moderate,Mild
+324,8/29/2022,10-19,Spotify,Pop,3,Y,N,N,Y,Y,120,Mild,Mild,Mild,Mild
+325,8/29/2022,50-59,YouTube Music,Pop,2,Y,N,N,Y,N,103,Mild,Mild,Mild,Mild
+326,8/29/2022,20-29,Spotify,Pop,2,Y,Y,Y,Y,N,72,Mild,Moderate,Mild,Mild
+327,8/29/2022,10-19,Apple Music,Pop,3,Y,N,N,Y,Y,113,Moderate,Mild,Mild,Mild
+328,8/29/2022,20-29,Spotify,Pop,2,N,N,N,N,N,120,Moderate,Moderate,Mild,Mild
+329,8/29/2022,20-29,Spotify,Video game music,5,Y,Y,N,N,N,95,Severe,Moderate,Mild,Mild
+330,8/29/2022,10-19,Spotify,Rock,6,Y,N,N,N,N,97,Severe,Mild,Moderate,Mild
+331,8/29/2022,20-29,Spotify,EDM,3,Y,Y,Y,Y,N,140,Moderate,Moderate,Mild,Mild
+332,8/29/2022,20-29,Spotify,Lofi,5,Y,N,N,Y,Y,120,Moderate,Severe,Severe,Mild
+333,8/29/2022,10-19,Spotify,Country,5,Y,N,N,Y,Y,118,Moderate,Moderate,Severe,Moderate
+334,8/29/2022,30-39,Spotify,Rock,6,Y,N,N,N,N,91,Severe,Moderate,Mild,Severe
+335,8/29/2022,40-49,Spotify,Rock,6,Y,N,N,Y,Y,128,Severe,Moderate,Mild,Mild
+336,8/29/2022,20-29,Spotify,Country,3,Y,N,N,Y,N,86,Moderate,Moderate,Moderate,Mild
+337,8/29/2022,20-29,Spotify,Rock,10,Y,N,N,Y,Y,107,Severe,Moderate,Moderate,Severe
+338,8/29/2022,20-29,Spotify,Video game music,2,Y,N,N,Y,Y,180,Severe,Moderate,Moderate,Mild
+339,8/29/2022,20-29,YouTube Music,EDM,2,Y,N,N,N,Y,148,Severe,Severe,Moderate,Moderate
+340,8/29/2022,30-39,Spotify,Folk,3,N,Y,N,Y,N,0,Severe,Mild,Mild,Severe
+341,8/29/2022,10-19,Spotify,Hip hop,1.5,N,N,N,N,N,150,Mild,Moderate,Moderate,Mild
+342,8/29/2022,20-29,No streaming service,Pop,10,Y,N,N,Y,N,112,Severe,Moderate,Moderate,Moderate
+343,8/29/2022,20-29,No streaming service,Video game music,2,Y,N,N,N,Y,120,Moderate,Mild,Mild,Mild
+344,8/29/2022,20-29,Spotify,Rock,3,Y,Y,Y,Y,Y,66,Severe,Moderate,Mild,Severe
+345,8/29/2022,10-19,Spotify,Folk,2.5,Y,N,N,N,N,118,Severe,Mild,Mild,Mild
+346,8/29/2022,10-19,Spotify,K pop,3,Y,N,N,Y,Y,110,Moderate,Mild,Mild,Mild
+347,8/29/2022,30-39,YouTube Music,Rock,0.5,Y,Y,N,N,N,80,Moderate,Severe,Moderate,Moderate
+348,8/29/2022,10-19,Spotify,Jazz,16,Y,N,Y,Y,Y,90,Mild,Mild,Moderate,Moderate
+349,8/29/2022,10-19,YouTube Music,Classical,6,Y,Y,N,Y,Y,120,Moderate,Mild,Mild,Mild
+350,8/29/2022,10-19,Spotify,EDM,3,Y,N,N,Y,Y,100,Moderate,Mild,Mild,Mild
+351,8/29/2022,10-19,YouTube Music,Rock,0.5,N,N,N,Y,N,66,Moderate,Mild,Mild,Mild
+352,8/29/2022,10-19,Spotify,K pop,5,Y,N,N,Y,Y,158,Moderate,Mild,Mild,Mild
+353,8/29/2022,10-19,YouTube Music,Rap,2,N,Y,N,Y,Y,105,Moderate,Mild,Moderate,Moderate
+354,8/29/2022,10-19,Spotify,Pop,2,Y,N,N,Y,Y,208,Moderate,Moderate,Mild,Mild
+355,8/29/2022,20-29,Spotify,Lofi,2,Y,N,N,Y,Y,91,Moderate,Severe,Moderate,Mild
+356,8/29/2022,20-29,Other streaming service,Video game music,1.5,Y,N,N,N,Y,171,Mild,Moderate,Mild,Mild
+357,8/29/2022,20-29,Spotify,Jazz,1,Y,Y,N,Y,N,150,Severe,Moderate,Mild,Mild
+358,8/29/2022,10-19,Spotify,EDM,10,Y,Y,N,Y,Y,180,Severe,Severe,Mild,Mild
+359,8/29/2022,20-29,YouTube Music,Metal,2,Y,N,N,Y,Y,139,Severe,Severe,Moderate,Mild
+360,8/29/2022,10-19,Spotify,EDM,15,Y,Y,Y,Y,N,85,Severe,Severe,Severe,Mild
+361,8/29/2022,20-29,No streaming service,Metal,0.5,N,N,N,Y,Y,150,Severe,Severe,Moderate,Moderate
+362,8/29/2022,10-19,Spotify,Metal,3,Y,N,N,Y,N,104,Moderate,Moderate,Severe,Severe
+363,8/29/2022,20-29,No streaming service,Metal,2,Y,N,N,Y,N,139,Severe,Mild,Moderate,Mild
+364,8/29/2022,20-29,Spotify,Hip hop,4,Y,N,N,Y,N,85,Mild,Mild,Mild,Moderate
+365,8/29/2022,10-19,Spotify,Folk,2,Y,N,N,Y,N,110,Moderate,Moderate,Moderate,Mild
+366,8/29/2022,20-29,Spotify,Rock,1,Y,N,N,Y,N,147,Moderate,Severe,Mild,Mild
+367,8/29/2022,10-19,Spotify,Rock,24,Y,N,N,Y,Y,120,Moderate,Mild,Severe,Mild
+368,8/29/2022,40-49,Spotify,Pop,1,Y,N,N,Y,N,134,Mild,Mild,Mild,Mild
+369,8/29/2022,30-39,Pandora,Classical,2,Y,Y,N,Y,N,115,Severe,Moderate,Moderate,Moderate
+370,8/29/2022,10-19,YouTube Music,Pop,2,Y,Y,N,Y,Y,112,Severe,Mild,Mild,Mild
+371,8/29/2022,20-29,Spotify,Metal,3,Y,N,N,Y,Y,200,Moderate,Mild,Mild,Mild
+372,8/29/2022,20-29,Spotify,Classical,3,Y,Y,N,N,Y,75,Severe,Moderate,Mild,Mild
+373,8/29/2022,10-19,Spotify,Hip hop,2,Y,N,N,Y,Y,20,Severe,Moderate,Mild,Mild
+374,8/29/2022,10-19,Apple Music,Rock,7,Y,N,N,N,N,140,Severe,Moderate,Moderate,Moderate
+375,8/29/2022,10-19,Spotify,Metal,6,Y,N,N,Y,N,111,Mild,Mild,Mild,Mild
+376,8/29/2022,10-19,YouTube Music,Rock,3,Y,N,N,Y,Y,150,Moderate,Moderate,Mild,Moderate
+377,8/29/2022,60-69,Other streaming service,Rock,5,Y,N,Y,Y,N,124,Moderate,Moderate,Severe,Mild
+378,8/29/2022,30-39,Apple Music,Lofi,4,Y,Y,Y,Y,Y,114,Severe,Severe,Mild,Mild
+379,8/29/2022,30-39,No streaming service,Rock,3,Y,Y,N,N,Y,93,Mild,Mild,Severe,Mild
+380,8/29/2022,10-19,Pandora,Pop,2,Y,Y,N,Y,N,145,Moderate,Mild,Mild,Mild
+381,8/29/2022,20-29,YouTube Music,Metal,3,Y,N,N,Y,Y,100,Mild,Mild,Mild,Mild
+382,8/29/2022,20-29,No streaming service,Rock,2,Y,N,N,Y,N,114,Moderate,Mild,Moderate,Moderate
+383,8/29/2022,20-29,No streaming service,Pop,2,Y,N,N,Y,Y,109,Moderate,Mild,Mild,Moderate
+384,8/29/2022,10-19,Apple Music,Classical,3,N,Y,N,Y,N,115,Moderate,Moderate,Moderate,Mild
+385,8/29/2022,10-19,YouTube Music,Classical,2,Y,Y,Y,N,N,115,Mild,Mild,Mild,Mild
+386,8/29/2022,10-19,Other streaming service,Classical,3,Y,Y,Y,N,N,72,Severe,Moderate,Severe,Moderate
+387,8/29/2022,10-19,Other streaming service,Video game music,0,N,N,N,N,Y,89,Severe,Mild,Mild,Mild
+388,8/29/2022,10-19,Spotify,Pop,1,Y,Y,N,Y,N,140,Moderate,Moderate,Mild,Mild
+389,8/29/2022,30-39,Spotify,Metal,2,Y,N,N,Y,N,84,Moderate,Mild,Mild,Moderate
+390,8/29/2022,20-29,Spotify,Pop,2,Y,Y,N,N,Y,132,Moderate,Mild,Mild,Mild
+391,8/29/2022,50-59,No streaming service,Classical,6,Y,N,N,N,N,115,Mild,Mild,Mild,Mild
+392,8/29/2022,10-19,Spotify,K pop,5,Y,N,N,Y,Y,124,Moderate,Moderate,Moderate,Moderate
+393,8/29/2022,10-19,Spotify,Classical,2,Y,Y,N,Y,N,181,Moderate,Moderate,Mild,Mild
+394,8/29/2022,10-19,Other streaming service,Classical,4,Y,Y,Y,Y,N,126,Severe,Moderate,Severe,Mild
+395,8/29/2022,10-19,Apple Music,Country,8,Y,N,Y,Y,N,109,Moderate,Moderate,Moderate,Moderate
+396,8/29/2022,10-19,Spotify,Classical,4,Y,Y,N,Y,N,106,Moderate,Severe,Severe,Mild
+397,8/29/2022,10-19,YouTube Music,Classical,1.5,N,Y,N,Y,N,140,Mild,Mild,Moderate,Mild
+398,8/29/2022,10-19,Apple Music,Rap,2,Y,Y,N,Y,Y,170,Mild,Mild,Mild,Mild
+399,8/29/2022,10-19,Spotify,Folk,5,Y,N,N,Y,Y,87,Moderate,Moderate,Moderate,Moderate
+400,8/29/2022,20-29,YouTube Music,Classical,6,Y,Y,N,N,N,115,Moderate,Moderate,Mild,Mild
+401,8/29/2022,10-19,Apple Music,Pop,2,Y,N,N,N,Y,117,Severe,Severe,Moderate,Severe
+402,8/29/2022,40-49,Spotify,Rock,2,N,N,N,Y,N,105,Moderate,Moderate,Mild,Mild
+403,8/29/2022,20-29,Spotify,Rock,1,N,Y,N,Y,N,124,Mild,Mild,Mild,Mild
+404,8/29/2022,20-29,Apple Music,Rap,1,N,N,N,N,N,160,Moderate,Mild,Moderate,Moderate
+405,8/29/2022,50-59,Other streaming service,R&B,2,N,N,N,Y,N,114,Mild,Mild,Mild,Mild
+406,8/29/2022,20-29,Spotify,Rock,2,Y,Y,N,Y,Y,141,Mild,Moderate,Moderate,Mild
+407,8/29/2022,10-19,Spotify,Pop,1,Y,Y,N,N,Y,105,Severe,Moderate,Moderate,Mild
+408,8/29/2022,20-29,Spotify,Hip hop,14,Y,N,N,Y,Y,158,Moderate,Severe,Severe,Mild
+409,8/29/2022,10-19,YouTube Music,Classical,3,Y,Y,Y,N,N,80,Severe,Moderate,Severe,Mild
+410,8/30/2022,10-19,Spotify,Classical,3,Y,Y,Y,Y,N,118,Severe,Moderate,Severe,Moderate
+411,8/30/2022,50-59,YouTube Music,Rock,2,Y,Y,Y,Y,N,125,Mild,Mild,Moderate,Mild
+412,8/30/2022,10-19,Spotify,Classical,0.5,Y,Y,Y,Y,Y,109,Moderate,Severe,Moderate,Mild
+413,8/30/2022,20-29,Spotify,EDM,6,Y,N,N,N,Y,156,Severe,Severe,Severe,Mild
+414,8/30/2022,10-19,Spotify,Country,1,Y,Y,N,N,N,105,Severe,Moderate,Mild,Mild
+415,8/30/2022,10-19,Spotify,Classical,2,Y,Y,N,Y,Y,115,Moderate,Severe,Mild,Moderate
+416,8/30/2022,60-69,Pandora,Classical,4,Y,Y,Y,Y,Y,72,Mild,Mild,Mild,Mild
+417,8/30/2022,10-19,Spotify,R&B,3,Y,Y,Y,Y,Y,148,Severe,Severe,Severe,Mild
+418,8/30/2022,30-39,Spotify,Jazz,12,Y,Y,Y,Y,Y,200,Severe,Moderate,Moderate,Moderate
+419,8/30/2022,20-29,YouTube Music,Classical,3,N,Y,N,Y,N,113,Severe,Mild,Moderate,Mild
+420,8/30/2022,30-39,Spotify,Metal,1,N,N,N,Y,Y,191,Mild,Mild,Moderate,Mild
+421,8/30/2022,10-19,YouTube Music,EDM,10,Y,N,N,Y,N,140,Severe,Severe,Severe,Severe
+422,8/30/2022,10-19,Spotify,Classical,5,Y,Y,N,Y,Y,40,Mild,Mild,Mild,Mild
+423,8/30/2022,10-19,Other streaming service,Video game music,0.5,Y,Y,N,Y,Y,173,Moderate,Mild,Moderate,Mild
+424,8/30/2022,10-19,Spotify,Metal,5,Y,Y,Y,Y,Y,180,Mild,Mild,Moderate,Mild
+425,8/30/2022,20-29,YouTube Music,Classical,3,Y,Y,Y,Y,N,100,Mild,Mild,Mild,Mild
+426,8/30/2022,10-19,Spotify,Rock,2,N,N,N,Y,N,123,Severe,Moderate,Mild,Mild
+427,8/30/2022,30-39,Spotify,K pop,13,N,N,N,Y,Y,145,Severe,Severe,Severe,Moderate
+428,8/30/2022,30-39,No streaming service,Classical,4,Y,Y,N,Y,Y,55,Severe,Severe,Severe,Mild
+429,8/30/2022,70-79,Spotify,Rock,6,Y,Y,Y,N,N,77,Mild,Mild,Mild,Mild
+430,8/30/2022,70-79,Pandora,R&B,3,Y,N,N,Y,Y,4,Moderate,Moderate,Mild,Mild
+431,8/31/2022,10-19,Spotify,Pop,4,Y,N,N,Y,Y,150,Severe,Moderate,Moderate,Severe
+432,8/31/2022,10-19,YouTube Music,Rap,3,N,Y,N,Y,Y,73,Mild,Mild,Mild,Mild
+433,8/31/2022,10-19,Spotify,Classical,2,Y,Y,N,N,N,155,Moderate,Moderate,Mild,Mild
+434,8/31/2022,10-19,Spotify,Classical,2,Y,Y,Y,Y,Y,115,Severe,Mild,Mild,Moderate
+435,8/31/2022,30-39,Spotify,Hip hop,1,Y,N,N,Y,Y,89,Moderate,Moderate,Mild,Mild
+436,8/31/2022,10-19,Spotify,K pop,6,Y,Y,N,Y,Y,110,Severe,Severe,Moderate,Severe
+437,8/31/2022,10-19,Spotify,R&B,9,Y,N,N,Y,Y,140,Severe,Severe,Severe,Moderate
+438,8/31/2022,20-29,Spotify,Country,1,N,N,N,N,N,135,Mild,Mild,Mild,Mild
+439,8/31/2022,30-39,Apple Music,Video game music,1,Y,N,N,N,N,125,Moderate,Moderate,Moderate,Mild
+440,8/31/2022,20-29,Spotify,Hip hop,0.5,N,N,Y,Y,Y,110,Moderate,Moderate,Moderate,Moderate
+441,8/31/2022,10-19,Other streaming service,EDM,1,N,N,N,Y,N,140,Moderate,Moderate,Moderate,Mild
+442,8/31/2022,20-29,Apple Music,Folk,1.5,Y,Y,N,N,N,105,Mild,Mild,Mild,Mild
+443,8/31/2022,10-19,Spotify,Rap,6,Y,N,N,Y,N,112,Moderate,Mild,Mild,Mild
+444,8/31/2022,10-19,Spotify,Rock,4,Y,N,N,Y,N,96,Mild,Mild,Moderate,Severe
+445,8/31/2022,10-19,Spotify,Rock,6,Y,N,Y,Y,N,124,Moderate,Mild,Moderate,Mild
+446,8/31/2022,20-29,Spotify,Metal,4,Y,N,N,Y,Y,155,Severe,Moderate,Severe,Mild
+447,9/1/2022,10-19,Spotify,Classical,1.5,Y,N,N,Y,Y,174,Moderate,Moderate,Mild,Mild
+448,9/1/2022,20-29,Apple Music,Rock,2,Y,N,N,Y,Y,93,Moderate,Moderate,Mild,Moderate
+449,9/1/2022,10-19,Apple Music,Pop,2,Y,N,N,Y,N,78,Moderate,Mild,Mild,Mild
+450,9/1/2022,20-29,Spotify,Rock,4,Y,N,N,Y,Y,124,Moderate,Mild,Mild,Mild
+451,9/1/2022,20-29,Spotify,Lofi,3,Y,N,N,Y,Y,174,Moderate,Moderate,Moderate,Severe
+452,9/1/2022,20-29,No streaming service,Rock,4,Y,N,N,Y,Y,120,Moderate,Moderate,Moderate,Mild
+453,9/1/2022,20-29,Spotify,Pop,2,Y,N,N,N,N,75,Moderate,Moderate,Moderate,Mild
+454,9/1/2022,60-69,Pandora,Rock,2,Y,N,N,Y,N,94,Mild,Mild,Mild,Mild
+455,9/1/2022,20-29,Spotify,Video game music,6,Y,N,N,N,Y,180,Severe,Moderate,Mild,Moderate
+456,9/1/2022,30-39,Spotify,Rock,0,N,Y,N,N,Y,115,Mild,Moderate,Severe,Mild
+457,9/1/2022,40-49,Spotify,Pop,1,N,N,N,Y,N,128,Moderate,Moderate,Severe,Mild
+458,9/1/2022,30-39,No streaming service,Rock,4,Y,Y,N,Y,Y,112,Mild,Mild,Moderate,Mild
+459,9/1/2022,20-29,No streaming service,Metal,2,N,Y,Y,N,N,140,Mild,Mild,Mild,Mild
+460,9/1/2022,30-39,Spotify,Metal,3,Y,N,N,Y,Y,143,Mild,Moderate,Mild,Mild
+461,9/1/2022,20-29,YouTube Music,Hip hop,4,N,N,N,Y,N,72,Severe,Severe,Moderate,Mild
+462,9/1/2022,30-39,No streaming service,Video game music,2,N,N,N,N,Y,100,Severe,Severe,Severe,Mild
+463,9/1/2022,40-49,Other streaming service,Metal,3,Y,N,N,Y,Y,120,Mild,Mild,Severe,Mild
+464,9/1/2022,20-29,Spotify,Hip hop,1,N,N,N,Y,N,112,Mild,Moderate,Mild,Mild
+465,9/1/2022,50-59,YouTube Music,Rock,10,Y,N,N,Y,N,124,Mild,Mild,Mild,Mild
+466,9/1/2022,10-19,Spotify,Rock,10,N,N,N,Y,N,105,Mild,Mild,Mild,Mild
+467,9/1/2022,20-29,No streaming service,Video game music,10,Y,N,N,N,Y,119,Severe,Severe,Moderate,Mild
+468,9/1/2022,30-39,Spotify,Country,4,N,N,N,Y,N,110,Mild,Mild,Mild,Mild
+469,9/1/2022,20-29,YouTube Music,Folk,4,Y,N,N,Y,Y,137,Severe,Moderate,Moderate,Mild
+470,9/1/2022,40-49,Spotify,Metal,3,N,N,N,Y,Y,178,Moderate,Moderate,Moderate,Mild
+471,9/1/2022,60-69,Spotify,Rock,2,Y,N,N,Y,N,133,Moderate,Moderate,Moderate,Mild
+472,9/1/2022,20-29,Spotify,Rock,1,N,Y,N,Y,N,72,Mild,Mild,Mild,Mild
+473,9/1/2022,20-29,Spotify,Country,6,Y,Y,N,Y,N,110,Moderate,Severe,Mild,Mild
+474,9/1/2022,50-59,YouTube Music,Rock,1,Y,N,N,Y,N,133,Moderate,Moderate,Mild,Mild
+475,9/1/2022,50-59,YouTube Music,Classical,1,Y,Y,Y,Y,N,80,Mild,Mild,Mild,Mild
+476,9/1/2022,60-69,Other streaming service,Rock,4,Y,N,N,N,N,146,Moderate,Moderate,Moderate,Moderate
+477,9/1/2022,70-79,No streaming service,Country,2,Y,N,N,N,N,88,Severe,Moderate,Moderate,Mild
+478,9/1/2022,60-69,YouTube Music,Rock,2,Y,N,N,N,Y,132,Moderate,Moderate,Mild,Mild
+479,9/1/2022,10-19,Spotify,Pop,2,Y,Y,Y,Y,N,102,Severe,Severe,Severe,Severe
+480,9/1/2022,10-19,YouTube Music,EDM,6,Y,N,N,Y,Y,91,Moderate,Moderate,Moderate,Mild
+481,9/1/2022,50-59,Other streaming service,Hip hop,3,Y,N,N,Y,Y,127,Moderate,Moderate,Severe,Mild
+482,9/1/2022,20-29,Other streaming service,Lofi,1,Y,N,N,Y,Y,82,Moderate,Severe,Moderate,Mild
+483,9/1/2022,20-29,Spotify,Lofi,4,Y,Y,N,Y,N,141,Severe,Severe,Moderate,Moderate
+484,9/1/2022,40-49,YouTube Music,Classical,0.5,N,N,N,N,N,114,Mild,Mild,Mild,Mild
+485,9/1/2022,20-29,YouTube Music,Rock,8,Y,N,N,Y,Y,148,Moderate,Mild,Mild,Mild
+486,9/1/2022,50-59,YouTube Music,Rock,15,Y,N,N,N,N,156,Mild,Mild,Mild,Mild
+487,9/1/2022,40-49,Spotify,Metal,1.5,Y,Y,N,N,N,185,Severe,Severe,Mild,Moderate
+488,9/1/2022,10-19,Spotify,K pop,2,Y,Y,N,Y,Y,114,Moderate,Moderate,Mild,Mild
+489,9/1/2022,10-19,Spotify,Pop,3,Y,Y,N,Y,Y,120,Moderate,Severe,Moderate,Mild
+490,9/1/2022,20-29,Spotify,Pop,1,Y,N,N,Y,Y,80,Moderate,Moderate,Moderate,Moderate
+491,9/1/2022,70-79,No streaming service,Gospel,0.25,Y,N,N,N,Y,89,Mild,Mild,Mild,Mild
+492,9/1/2022,60-69,YouTube Music,Gospel,1,N,Y,Y,N,N,89,Moderate,Mild,Severe,Mild
+493,9/1/2022,10-19,No streaming service,Video game music,1,Y,N,Y,N,N,116,Moderate,Moderate,Moderate,Mild
+494,9/1/2022,10-19,Spotify,Hip hop,5,Y,N,N,N,Y,99,Severe,Moderate,Mild,Mild
+495,9/1/2022,70-79,No streaming service,Pop,1,N,N,N,N,N,129,Moderate,Mild,Mild,Mild
+496,9/1/2022,30-39,Pandora,Hip hop,1,Y,N,N,N,N,131,Moderate,Moderate,Mild,Mild
+497,9/1/2022,10-19,Spotify,Lofi,7,Y,N,N,Y,Y,95,Mild,Mild,Severe,Mild
+498,9/1/2022,20-29,Spotify,Hip hop,3,N,Y,Y,Y,Y,80,Severe,Moderate,Moderate,Mild
+499,9/1/2022,10-19,Spotify,K pop,3,Y,N,N,Y,Y,204,Moderate,Mild,Mild,Mild
+500,9/1/2022,10-19,No streaming service,Rock,7,Y,N,N,N,N,128,Moderate,Moderate,Mild,Mild
+501,9/2/2022,20-29,Spotify,EDM,8,Y,N,N,N,Y,140,Moderate,Moderate,Moderate,Mild
+502,9/2/2022,20-29,Spotify,Metal,2,Y,N,N,Y,N,159,Moderate,Moderate,Mild,Moderate
+503,9/2/2022,10-19,Apple Music,Pop,2,Y,N,N,Y,Y,104,Moderate,Moderate,Severe,Mild
+504,9/2/2022,20-29,Spotify,Rock,2,Y,N,N,Y,Y,97,Severe,Severe,Mild,Mild
+505,9/2/2022,10-19,Spotify,K pop,2,Y,N,N,Y,Y,80,Moderate,Moderate,Moderate,Mild
+506,9/2/2022,20-29,Spotify,Video game music,4,N,N,N,Y,Y,134,Mild,Mild,Mild,Mild
+507,9/2/2022,20-29,Spotify,Rock,8,Y,N,N,Y,Y,124,Severe,Mild,Mild,Mild
+508,9/2/2022,20-29,Other streaming service,Rap,4,Y,N,N,Y,N,135,Moderate,Moderate,Moderate,Moderate
+509,9/2/2022,60-69,Spotify,Rock,1,N,N,N,Y,N,129,Mild,Mild,Moderate,Mild
+510,9/2/2022,20-29,YouTube Music,Metal,5,N,N,N,N,Y,139,Severe,Mild,Mild,Mild
+511,9/2/2022,60-69,Other streaming service,Rock,2,Y,N,N,N,N,124,Moderate,Moderate,Mild,Moderate
+512,9/2/2022,40-49,Other streaming service,Country,1,N,N,N,N,N,110,Moderate,Mild,Mild,Mild
+513,9/2/2022,50-59,No streaming service,Rock,5,Y,N,N,N,N,180,Mild,Mild,Mild,Mild
+514,9/2/2022,60-69,YouTube Music,Rock,8,Y,N,N,Y,N,70,Mild,Mild,Mild,Mild
+515,9/2/2022,60-69,YouTube Music,Classical,2,Y,N,N,N,N,115,Moderate,Mild,Moderate,Mild
+516,9/2/2022,20-29,Spotify,Pop,2,Y,N,N,N,N,119,Moderate,Mild,Mild,Mild
+517,9/2/2022,20-29,YouTube Music,Folk,1,Y,N,N,N,Y,103,Severe,Severe,Moderate,Severe
+518,9/2/2022,10-19,Spotify,Pop,8,Y,N,N,Y,Y,99,Moderate,Mild,Mild,Moderate
+519,9/2/2022,50-59,Apple Music,Pop,8,Y,N,N,Y,N,117,Moderate,Moderate,Mild,Mild
+520,9/2/2022,20-29,Spotify,EDM,1,N,N,N,Y,N,102,Moderate,Severe,Moderate,Mild
+521,9/2/2022,10-19,No streaming service,Video game music,1,Y,Y,N,N,N,127,Moderate,Moderate,Moderate,Mild
+522,9/2/2022,20-29,Spotify,Jazz,8,Y,N,N,Y,Y,93,Moderate,Moderate,Moderate,Moderate
+523,9/2/2022,60-69,Spotify,Rock,2,Y,N,N,N,N,124,Mild,Mild,Mild,Mild
+524,9/2/2022,60-69,Apple Music,R&B,6,Y,N,N,N,Y,146,Mild,Moderate,Mild,Mild
+525,9/2/2022,20-29,Spotify,Metal,3,N,Y,Y,Y,Y,0,Severe,Severe,Moderate,Mild
+526,9/2/2022,10-19,No streaming service,EDM,4,Y,Y,N,N,Y,150,Severe,Moderate,Severe,Moderate
+527,9/2/2022,40-49,Spotify,Rock,2,Y,N,N,N,Y,85,Mild,Moderate,Moderate,Mild
+528,9/2/2022,80-89,No streaming service,Classical,3,Y,Y,N,N,N,122,Moderate,Mild,Severe,Mild
+529,9/2/2022,20-29,No streaming service,Pop,4,N,N,Y,Y,N,119,Severe,Moderate,Moderate,Moderate
+530,9/2/2022,50-59,Other streaming service,Jazz,2,N,N,N,Y,Y,120,Mild,Mild,Mild,Moderate
+531,9/2/2022,20-29,YouTube Music,Pop,1,Y,N,N,N,Y,120,Severe,Moderate,Severe,Severe
+532,9/2/2022,10-19,Spotify,Video game music,1,Y,N,N,Y,Y,150,Moderate,Mild,Mild,Mild
+533,9/2/2022,60-69,No streaming service,Rock,1,N,N,N,N,N,124,Mild,Mild,Mild,Mild
+534,9/2/2022,50-59,Spotify,Gospel,2,Y,Y,N,N,N,174,Moderate,Moderate,Severe,Mild
+535,9/2/2022,20-29,Apple Music,Pop,7,Y,N,N,Y,Y,112,Severe,Severe,Severe,Mild
+536,9/2/2022,10-19,Spotify,Pop,5,Y,N,N,Y,Y,180,Moderate,Moderate,Moderate,Moderate
+537,9/2/2022,10-19,Spotify,Rock,3,Y,N,N,N,N,121,Severe,Severe,Moderate,Mild
+538,9/3/2022,50-59,No streaming service,Rock,1,N,N,N,N,N,98,Mild,Mild,Moderate,Mild
+539,9/3/2022,20-29,Spotify,Rock,6,Y,Y,Y,Y,Y,118,Severe,Severe,Severe,Mild
+540,9/3/2022,60-69,Apple Music,Rock,2,N,N,N,Y,N,124,Severe,Mild,Mild,Mild
+541,9/3/2022,10-19,Other streaming service,Metal,3,Y,Y,Y,Y,N,135,Moderate,Severe,Moderate,Severe
+542,9/3/2022,20-29,Spotify,Country,1.5,Y,N,N,N,N,110,Mild,Mild,Mild,Mild
+543,9/3/2022,10-19,Spotify,Pop,4,Y,Y,N,Y,N,105,Mild,Moderate,Moderate,Mild
+544,9/3/2022,10-19,Spotify,Pop,2,Y,Y,N,Y,Y,122,Moderate,Mild,Mild,Mild
+545,9/3/2022,30-39,YouTube Music,Folk,2,Y,N,N,Y,N,110,Moderate,Mild,Mild,Mild
+546,9/3/2022,10-19,Spotify,Rap,2,N,N,N,Y,Y,136,Moderate,Mild,Moderate,Mild
+547,9/3/2022,10-19,Spotify,Rock,1,Y,Y,Y,Y,N,165,Moderate,Moderate,Severe,Mild
+548,9/3/2022,10-19,Spotify,K pop,3,Y,N,N,Y,Y,130,Severe,Moderate,Moderate,Moderate
+549,9/3/2022,10-19,Spotify,Pop,3,Y,N,N,Y,N,119,Mild,Mild,Mild,Mild
+550,9/3/2022,10-19,Spotify,Rock,2,N,Y,N,Y,N,115,Severe,Mild,Mild,Mild
+551,9/3/2022,10-19,Other streaming service,Rap,6,Y,N,Y,Y,N,140,Mild,Mild,Mild,Mild
+552,9/3/2022,30-39,Spotify,Classical,3,Y,N,N,N,Y,95,Mild,Mild,Mild,Mild
+553,9/3/2022,10-19,YouTube Music,Pop,3,Y,N,N,N,N,150,Moderate,Moderate,Mild,Mild
+554,9/3/2022,10-19,Spotify,R&B,2,Y,N,N,Y,N,97,Mild,Moderate,Mild,Mild
+555,9/3/2022,20-29,No streaming service,Video game music,2,Y,N,N,N,N,120,Moderate,Moderate,Mild,Mild
+556,9/3/2022,10-19,Spotify,Pop,2,Y,N,Y,Y,N,119,Moderate,Moderate,Mild,Mild
+557,9/3/2022,10-19,Spotify,Rock,3,Y,N,N,Y,Y,122,Moderate,Mild,Moderate,Mild
+558,9/3/2022,20-29,No streaming service,Pop,4,Y,N,N,Y,Y,150,Severe,Severe,Moderate,Mild
+559,9/3/2022,10-19,Spotify,R&B,2,Y,Y,Y,Y,N,114,Mild,Mild,Mild,Mild
+560,9/4/2022,20-29,Spotify,Rock,5,Y,Y,N,Y,N,125,Severe,Moderate,Mild,Mild
+561,9/4/2022,10-19,Spotify,R&B,2,Y,N,N,N,N,96,Mild,Mild,Mild,Mild
+562,9/4/2022,20-29,Spotify,K pop,1,N,N,N,Y,N,129,Moderate,Moderate,Mild,Moderate
+563,9/4/2022,20-29,Spotify,Folk,7,Y,N,N,Y,Y,137,Severe,Severe,Severe,Severe
+564,9/4/2022,10-19,Spotify,K pop,3,Y,Y,N,N,Y,174,Severe,Mild,Moderate,Severe
+565,9/4/2022,10-19,Spotify,Metal,3,N,Y,Y,Y,N,210,Severe,Moderate,Severe,Moderate
+566,9/4/2022,10-19,Spotify,R&B,4,Y,N,N,Y,Y,129,Moderate,Moderate,Mild,Moderate
+567,9/4/2022,10-19,Spotify,Pop,3,Y,N,N,Y,N,112,Mild,Moderate,Moderate,Severe
+568,9/4/2022,60-69,Pandora,Gospel,1,Y,N,N,N,N,8,Severe,Severe,Severe,Mild
+569,9/4/2022,10-19,Spotify,Video game music,7,Y,N,N,Y,N,120,Moderate,Severe,Severe,Moderate
+570,9/4/2022,20-29,Spotify,R&B,1,N,N,N,Y,Y,81,Mild,Mild,Mild,Mild
+571,9/4/2022,50-59,Pandora,R&B,4,Y,N,N,Y,Y,153,Mild,Mild,Mild,Mild
+572,9/4/2022,20-29,Spotify,Classical,4,Y,N,N,Y,N,120,Moderate,Moderate,Moderate,Moderate
+573,9/4/2022,10-19,Spotify,Video game music,3,Y,N,N,Y,Y,89,Moderate,Mild,Mild,Mild
+574,9/4/2022,20-29,Spotify,Pop,2,Y,N,N,N,N,119,Severe,Severe,Severe,Severe
+575,9/4/2022,10-19,Spotify,R&B,4,Y,Y,N,Y,Y,169,Mild,Mild,Mild,Moderate
+576,9/5/2022,20-29,Spotify,EDM,5,Y,N,N,Y,Y,138,Mild,Mild,Mild,Mild
+577,9/5/2022,10-19,Other streaming service,Pop,6,Y,N,N,N,N,124,Moderate,Moderate,Mild,Mild
+578,9/5/2022,10-19,YouTube Music,Video game music,1,Y,N,N,Y,N,120,Moderate,Mild,Moderate,Mild
+579,9/5/2022,20-29,No streaming service,Pop,1,N,N,N,N,N,192,Moderate,Moderate,Mild,Mild
+580,9/5/2022,10-19,Spotify,Rock,3,Y,N,N,Y,N,76,Mild,Moderate,Mild,Mild
+581,9/5/2022,20-29,Spotify,Pop,1,Y,N,N,Y,Y,119,Severe,Mild,Mild,Mild
+582,9/5/2022,20-29,Spotify,Rock,8,N,N,N,N,Y,172,Severe,Severe,Moderate,Mild
+583,9/5/2022,50-59,Other streaming service,Rock,1,N,Y,N,N,N,79,Mild,Mild,Mild,Mild
+584,9/5/2022,30-39,Spotify,Rock,8,Y,Y,Y,Y,N,112,Severe,Moderate,Moderate,Severe
+585,9/5/2022,20-29,Spotify,Pop,1,Y,N,N,Y,Y,130,Moderate,Mild,Mild,Moderate
+586,9/5/2022,10-19,Apple Music,Rap,1,N,Y,N,Y,Y,116,Mild,Mild,Mild,Mild
+587,9/5/2022,20-29,No streaming service,Metal,10,Y,Y,Y,N,Y,165,Mild,Mild,Mild,Mild
+588,9/5/2022,10-19,Spotify,Rock,10,Y,Y,Y,Y,N,110,Severe,Severe,Moderate,Moderate
+589,9/5/2022,40-49,Spotify,Rock,5,Y,N,N,Y,Y,174,Mild,Mild,Mild,Mild
+590,9/7/2022,20-29,Spotify,Rock,10,Y,N,N,Y,Y,180,Moderate,Severe,Severe,Mild
+591,9/7/2022,20-29,Spotify,Classical,2,Y,Y,N,Y,Y,171,Severe,Moderate,Moderate,Mild
+592,9/7/2022,50-59,Other streaming service,R&B,6,Y,N,N,N,N,114,Mild,Mild,Severe,Severe
+593,9/7/2022,20-29,Other streaming service,R&B,2,Y,N,N,Y,N,70,Severe,Moderate,Severe,Mild
+594,9/7/2022,10-19,Other streaming service,Pop,3,Y,N,N,N,Y,120,Moderate,Mild,Mild,Mild
+595,9/8/2022,10-19,Spotify,Gospel,8,Y,Y,Y,Y,Y,56,Mild,Mild,Mild,Mild
+596,9/8/2022,20-29,Spotify,Lofi,8,Y,N,N,Y,Y,162,Moderate,Moderate,Severe,Severe
+597,9/8/2022,30-39,Spotify,Rock,8,Y,N,N,Y,N,101,Moderate,Moderate,Moderate,Severe
+598,9/8/2022,20-29,YouTube Music,Metal,8,Y,Y,N,Y,N,110,Severe,Moderate,Severe,Moderate
+599,9/8/2022,10-19,Spotify,Latin,12,Y,Y,N,Y,N,172,Mild,Mild,Severe,Moderate
+600,9/8/2022,10-19,Spotify,EDM,6,Y,N,N,Y,Y,90,Mild,Mild,Mild,Moderate
+601,9/8/2022,10-19,Spotify,R&B,4,Y,Y,N,N,Y,135,Mild,Mild,Mild,Mild
+602,9/9/2022,20-29,Spotify,Jazz,8,Y,N,N,Y,N,81,Mild,Mild,Moderate,Mild
+603,9/9/2022,20-29,Spotify,Pop,2,N,N,N,N,N,170,Moderate,Moderate,Mild,Moderate
+604,9/9/2022,40-49,No streaming service,Rock,1,N,N,N,N,N,120,Mild,Mild,Mild,Mild
+605,9/9/2022,10-19,Spotify,Hip hop,2,Y,Y,N,Y,N,90,Moderate,Moderate,Mild,Moderate
+606,9/9/2022,10-19,Spotify,K pop,3,Y,Y,N,Y,Y,115,Mild,Moderate,Mild,Mild
+607,9/9/2022,20-29,Spotify,Video game music,1,Y,N,N,Y,Y,120,Mild,Moderate,Mild,Moderate
+608,9/9/2022,10-19,No streaming service,Classical,0,N,N,N,Y,Y,115,Mild,Mild,Mild,Mild
+609,9/10/2022,20-29,Spotify,Rap,2,Y,Y,Y,Y,Y,127,Moderate,Moderate,Mild,Mild
+610,9/10/2022,20-29,Other streaming service,Folk,0.1,Y,Y,N,N,Y,110,Moderate,Moderate,Mild,Mild
+611,9/10/2022,50-59,No streaming service,Rock,2,Y,N,N,N,Y,220,Mild,Mild,Mild,Severe
+612,9/10/2022,20-29,Spotify,Rock,12,Y,N,N,Y,Y,160,Moderate,Severe,Moderate,Moderate
+613,9/12/2022,20-29,Spotify,Pop,1,Y,N,N,Y,N,121,Mild,Mild,Mild,Mild
+614,9/12/2022,20-29,Apple Music,Rock,1,Y,N,N,N,N,105,Moderate,Mild,Mild,Severe
+615,9/12/2022,20-29,Spotify,Rock,3,Y,N,N,N,N,110,Severe,Severe,Moderate,Severe
+616,9/12/2022,30-39,Spotify,Metal,2,Y,N,N,Y,Y,134,Moderate,Severe,Mild,Mild
+617,9/12/2022,20-29,Spotify,Rock,2,Y,N,N,Y,Y,148,Moderate,Severe,Moderate,Mild
+618,9/12/2022,10-19,Spotify,Rock,3,Y,Y,N,Y,N,120,Mild,Moderate,Moderate,Moderate
+619,9/12/2022,20-29,YouTube Music,Jazz,1,N,N,N,Y,Y,122,Mild,Mild,Mild,Mild
+620,9/12/2022,20-29,Spotify,Jazz,3,Y,Y,Y,Y,Y,90,Moderate,Severe,Mild,Mild
+621,9/12/2022,10-19,YouTube Music,Rock,3,Y,N,N,N,N,122,Moderate,Mild,Moderate,Mild
+622,9/12/2022,10-19,Spotify,Metal,5,Y,Y,Y,Y,Y,129,Moderate,Moderate,Severe,Mild
+623,9/12/2022,20-29,Spotify,Metal,8,Y,N,N,Y,N,132,Mild,Moderate,Severe,Mild
+624,9/12/2022,20-29,Spotify,Hip hop,4,Y,N,N,Y,Y,178,Severe,Moderate,Mild,Severe
+625,9/12/2022,40-49,No streaming service,Rock,5,Y,N,Y,Y,Y,124,Mild,Mild,Mild,Mild
+626,9/12/2022,10-19,Spotify,Rap,3,Y,N,N,N,Y,115,Moderate,Moderate,Mild,Mild
+627,9/12/2022,20-29,YouTube Music,Rock,4,Y,N,N,Y,Y,137,Moderate,Severe,Mild,Mild
+628,9/12/2022,20-29,No streaming service,Classical,1,Y,Y,N,N,N,92,Mild,Mild,Mild,Moderate
+629,9/12/2022,10-19,Spotify,Metal,4,Y,N,N,Y,Y,140,Severe,Moderate,Mild,Mild
+630,9/12/2022,20-29,Spotify,Rock,1,N,N,N,Y,Y,130,Severe,Moderate,Severe,Mild
+631,9/12/2022,20-29,YouTube Music,Video game music,2,Y,Y,N,N,Y,120,Mild,Mild,Mild,Mild
+632,9/12/2022,20-29,Spotify,Folk,6,Y,N,N,Y,N,63,Severe,Moderate,Moderate,Mild
+633,9/12/2022,20-29,Spotify,Rock,2,N,N,N,N,N,119,Severe,Moderate,Mild,Severe
+634,9/12/2022,30-39,Spotify,Rock,1,Y,N,N,Y,N,124,Severe,Severe,Severe,Moderate
+635,9/12/2022,20-29,YouTube Music,Metal,4,Y,Y,N,Y,N,180,Moderate,Mild,Mild,Moderate
+636,9/12/2022,40-49,No streaming service,Classical,8,Y,Y,Y,N,N,68,Moderate,Severe,Severe,Mild
+637,9/12/2022,40-49,Spotify,Metal,2,Y,N,N,Y,Y,85,Moderate,Severe,Moderate,Mild
+638,9/12/2022,20-29,Spotify,EDM,2,Y,N,N,Y,Y,128,Mild,Mild,Mild,Mild
+639,9/12/2022,10-19,Spotify,K pop,10,Y,N,Y,Y,Y,150,Severe,Mild,Mild,Moderate
+640,9/12/2022,30-39,No streaming service,Metal,0,N,N,N,N,N,0,Severe,Severe,Severe,Severe
+641,9/12/2022,20-29,Spotify,Folk,6,Y,N,N,Y,Y,92,Mild,Moderate,Moderate,Moderate
+642,9/12/2022,30-39,Apple Music,EDM,3,Y,N,N,Y,Y,121,Moderate,Moderate,Moderate,Moderate
+643,9/12/2022,30-39,Spotify,Metal,2,Y,N,N,N,Y,155,Moderate,Moderate,Severe,Severe
+644,9/13/2022,40-49,Other streaming service,Classical,0.25,N,Y,N,Y,Y,150,Moderate,Severe,Moderate,Moderate
+645,9/13/2022,10-19,Other streaming service,EDM,4,Y,N,N,Y,Y,624,Moderate,Moderate,Mild,Mild
+646,9/13/2022,30-39,YouTube Music,Metal,2,N,N,N,Y,N,136,Moderate,Severe,Severe,Moderate
+647,9/13/2022,20-29,YouTube Music,Pop,2,Y,N,N,Y,N,121,Moderate,Moderate,Severe,Moderate
+648,9/13/2022,20-29,YouTube Music,Pop,3,Y,N,N,N,N,113,Moderate,Mild,Mild,Mild
+649,9/13/2022,10-19,Spotify,Folk,6,Y,N,N,Y,Y,80,Severe,Moderate,Mild,Mild
+650,9/13/2022,20-29,Spotify,Metal,3,N,N,N,Y,N,140,Mild,Mild,Severe,Mild
+651,9/13/2022,30-39,Spotify,Rock,2,Y,N,N,Y,N,100,Severe,Severe,Severe,Mild
+652,9/13/2022,20-29,Spotify,Folk,5,Y,Y,N,Y,Y,92,Moderate,Moderate,Moderate,Mild
+653,9/13/2022,10-19,Spotify,Pop,4,N,N,N,N,Y,120,Severe,Moderate,Mild,Mild
+654,9/13/2022,20-29,Spotify,Rock,4,Y,N,N,Y,N,93,Severe,Moderate,Moderate,Moderate
+655,9/13/2022,40-49,No streaming service,Rock,0,N,N,N,N,N,124,Mild,Mild,Mild,Mild
+656,9/13/2022,20-29,No streaming service,Rock,12,Y,Y,Y,Y,N,136,Moderate,Severe,Mild,Severe
+657,9/13/2022,20-29,No streaming service,Pop,0.5,N,N,N,N,N,108,Severe,Mild,Mild,Severe
+658,9/13/2022,20-29,No streaming service,Rock,1,Y,N,N,N,N,147,Mild,Mild,Mild,Mild
+659,9/13/2022,20-29,YouTube Music,R&B,3,Y,N,N,Y,Y,93,Mild,Severe,Mild,Mild
+660,9/13/2022,20-29,Apple Music,Rock,12,N,N,N,Y,Y,98,Moderate,Severe,Mild,Mild
+661,9/13/2022,10-19,Spotify,Metal,4,Y,Y,Y,N,N,120,Moderate,Mild,Mild,Mild
+662,9/14/2022,10-19,Spotify,R&B,3,Y,N,N,N,N,130,Moderate,Mild,Moderate,Mild
+663,9/14/2022,30-39,Spotify,Metal,1,Y,N,N,Y,Y,218,Moderate,Severe,Moderate,Mild
+664,9/14/2022,10-19,YouTube Music,Folk,4,N,N,N,Y,Y,123,Severe,Moderate,Moderate,Mild
+665,9/14/2022,20-29,Other streaming service,Rock,2,Y,Y,Y,Y,N,135,Mild,Mild,Mild,Mild
+666,9/14/2022,20-29,Spotify,Rock,3,Y,N,N,Y,Y,105,Severe,Moderate,Severe,Mild
+667,9/15/2022,10-19,Spotify,Rock,3,Y,Y,N,N,N,132,Moderate,Mild,Moderate,Mild
+668,9/15/2022,20-29,Spotify,Rock,1,Y,N,N,Y,Y,124,Moderate,Mild,Mild,Moderate
+669,9/15/2022,20-29,Spotify,Pop,2,Y,N,N,Y,Y,115,Moderate,Moderate,Mild,Moderate
+670,9/15/2022,20-29,Spotify,K pop,1,Y,N,N,Y,Y,120,Severe,Moderate,Mild,Mild
+671,9/16/2022,20-29,YouTube Music,Pop,0.5,Y,N,N,Y,Y,119,Moderate,Mild,Moderate,Mild
+672,9/16/2022,10-19,Spotify,Video game music,2,Y,N,N,N,N,149,Moderate,Mild,Moderate,Mild
+673,9/16/2022,20-29,Spotify,Metal,11,Y,Y,Y,Y,Y,125,Moderate,Moderate,Moderate,Mild
+674,9/18/2022,20-29,Spotify,Jazz,10,Y,Y,Y,Y,Y,132,Moderate,Severe,Severe,Mild
+675,9/18/2022,10-19,Spotify,Rock,5,Y,Y,N,Y,N,110,Moderate,Mild,Severe,Moderate
+676,9/19/2022,20-29,Spotify,Classical,1.5,Y,Y,N,Y,Y,110,Moderate,Moderate,Mild,Mild
+677,9/19/2022,10-19,Spotify,Folk,2,Y,N,N,Y,Y,116,Severe,Moderate,Mild,Mild
+678,9/19/2022,20-29,Spotify,Rap,3,N,N,N,Y,Y,145,Severe,Moderate,Moderate,Moderate
+679,9/19/2022,10-19,YouTube Music,Rock,2,N,N,Y,Y,N,124,Moderate,Severe,Mild,Moderate
+680,9/19/2022,30-39,YouTube Music,Country,3,Y,N,N,N,Y,105,Mild,Mild,Mild,Mild
+681,9/21/2022,10-19,Spotify,R&B,4,N,N,N,Y,Y,80,Severe,Moderate,Mild,Moderate
+682,9/22/2022,10-19,Spotify,K pop,1,N,N,N,N,Y,100,Moderate,Mild,Moderate,Mild
+683,9/22/2022,10-19,Apple Music,Latin,5,Y,Y,N,Y,Y,73,Severe,Moderate,Mild,Mild
+684,9/23/2022,10-19,Apple Music,R&B,2,Y,N,N,Y,N,80,Moderate,Moderate,Moderate,Moderate
+685,9/23/2022,10-19,Spotify,Hip hop,7,Y,N,N,Y,Y,112,Mild,Mild,Mild,Mild
+686,9/23/2022,10-19,Spotify,Rap,2,Y,N,N,Y,Y,127,Moderate,Severe,Moderate,Moderate
+687,9/23/2022,10-19,No streaming service,Classical,1,Y,N,N,N,N,120,Mild,Mild,Mild,Moderate
+688,9/23/2022,10-19,No streaming service,Classical,1,N,Y,N,N,N,117,Moderate,Mild,Mild,Mild
+689,9/24/2022,10-19,Spotify,R&B,4,Y,N,N,N,N,114,Severe,Mild,Mild,Mild
+690,9/24/2022,20-29,Spotify,R&B,6,Y,N,N,Y,Y,89,Moderate,Mild,Mild,Mild
+691,9/24/2022,10-19,Spotify,Hip hop,3,Y,N,N,Y,N,115,Mild,Severe,Mild,Mild
+692,9/25/2022,10-19,Spotify,Hip hop,4,Y,N,N,Y,N,144,Moderate,Mild,Mild,Mild
+693,9/27/2022,20-29,Spotify,Video game music,4,Y,N,N,Y,Y,105,Severe,Severe,Severe,Mild
+694,9/27/2022,10-19,YouTube Music,Pop,1,Y,Y,Y,Y,N,114,Moderate,Mild,Mild,Mild
+695,9/27/2022,10-19,Spotify,Pop,2,Y,Y,N,Y,Y,145,Moderate,Severe,Mild,Moderate
+696,9/28/2022,80-89,Spotify,Rap,24,Y,Y,Y,N,N,143,Mild,Mild,Mild,Mild
+697,9/28/2022,20-29,Spotify,R&B,5,Y,Y,Y,Y,Y,128,Severe,Moderate,Mild,Severe
+698,9/29/2022,10-19,Spotify,Rock,3,N,Y,N,Y,Y,90,Moderate,Moderate,Moderate,Moderate
+699,10/2/2022,10-19,Spotify,Country,4,Y,Y,Y,Y,Y,110,Mild,Mild,Mild,Mild
+700,10/3/2022,10-19,Spotify,Metal,9,Y,N,N,N,Y,130,Severe,Severe,Severe,Severe
+701,10/3/2022,20-29,YouTube Music,Pop,1,Y,N,N,N,Y,119,Severe,Severe,Moderate,Moderate
+702,10/3/2022,30-39,YouTube Music,Rock,1,Y,Y,N,Y,Y,115,Severe,Moderate,Severe,Moderate
+703,10/3/2022,30-39,Spotify,Folk,2,Y,N,N,Y,N,186,Moderate,Moderate,Moderate,Mild
+704,10/3/2022,40-49,YouTube Music,Folk,1.5,N,N,N,N,N,99,Severe,Moderate,Severe,Moderate
+705,10/3/2022,20-29,Spotify,Metal,2,Y,Y,N,Y,Y,150,Mild,Moderate,Mild,Mild
+706,10/3/2022,10-19,Spotify,Pop,4,Y,Y,N,Y,N,149,Severe,Mild,Mild,Severe
+707,10/3/2022,20-29,Spotify,Rock,1,Y,Y,N,Y,Y,124,Severe,Moderate,Mild,Moderate
+708,10/3/2022,20-29,Spotify,Country,1,N,N,N,Y,N,120,Moderate,Mild,Mild,Moderate
+709,10/3/2022,10-19,Spotify,Video game music,3,Y,N,N,Y,Y,140,Moderate,Moderate,Mild,Mild
+710,10/4/2022,30-39,Spotify,Hip hop,4,Y,Y,Y,Y,N,90,Moderate,Severe,Moderate,Moderate
+711,10/4/2022,10-19,Spotify,Rock,8,Y,Y,Y,Y,N,120,Severe,Severe,Moderate,Severe
+712,10/4/2022,10-19,Spotify,Metal,5,Y,N,N,Y,Y,210,Severe,Moderate,Moderate,Mild
+713,10/4/2022,20-29,No streaming service,Rock,3,Y,N,N,N,N,124,Severe,Moderate,Mild,Mild
+714,10/4/2022,10-19,YouTube Music,Pop,8,Y,N,N,Y,Y,95,Moderate,Mild,Moderate,Moderate
+715,10/4/2022,20-29,Apple Music,Country,1,N,N,N,Y,N,163,Severe,Mild,Mild,Mild
+716,10/4/2022,20-29,Spotify,Pop,4,Y,Y,Y,N,N,97,Moderate,Moderate,Mild,Moderate
+717,10/5/2022,10-19,Spotify,Metal,1,N,N,N,Y,Y,137,Severe,Severe,Moderate,Mild
+718,10/5/2022,20-29,Spotify,Rock,2,N,N,N,Y,Y,124,Moderate,Moderate,Severe,Mild
+719,10/6/2022,10-19,Spotify,Metal,1,Y,Y,N,Y,Y,70,Severe,Mild,Severe,Mild
+720,10/6/2022,20-29,Spotify,Video game music,3,Y,N,N,Y,Y,150,Severe,Severe,Moderate,Severe
+721,10/9/2022,10-19,Spotify,Hip hop,5,Y,N,N,Y,N,168,Moderate,Moderate,Moderate,Moderate
+722,10/11/2022,10-19,Spotify,Pop,5,Y,Y,N,Y,Y,163,Severe,Severe,Mild,Mild
+723,10/14/2022,10-19,Spotify,Pop,4,Y,N,N,Y,Y,140,Severe,Moderate,Mild,Mild
+724,10/14/2022,10-19,Spotify,Pop,6,Y,N,N,Y,Y,105,Severe,Moderate,Moderate,Severe
+725,10/15/2022,10-19,Spotify,Pop,6,Y,N,N,Y,Y,78,Moderate,Moderate,Severe,Mild
+726,10/22/2022,10-19,Spotify,Video game music,1,Y,N,N,Y,N,128,Severe,Severe,Severe,Moderate
+727,10/23/2022,10-19,Apple Music,EDM,18,Y,N,N,Y,N,90,Severe,Severe,Moderate,Severe
+728,10/26/2022,20-29,YouTube Music,Metal,1,Y,N,N,Y,Y,136,Mild,Mild,Mild,Mild
+729,10/30/2022,10-19,Other streaming service,Country,7,Y,Y,N,Y,N,108,Moderate,Mild,Mild,Mild
+730,10/30/2022,20-29,No streaming service,Pop,0.5,N,N,N,Y,N,95,Moderate,Mild,Mild,Mild
+731,10/30/2022,20-29,Spotify,R&B,2,Y,N,N,Y,Y,147,Moderate,Moderate,Moderate,Moderate
+732,10/30/2022,10-19,Spotify,Rock,2,Y,Y,N,Y,Y,120,Moderate,Moderate,Mild,Severe
+733,11/1/2022,10-19,Spotify,Pop,1,Y,Y,N,Y,Y,160,Mild,Mild,Mild,Moderate
+734,11/3/2022,10-19,Other streaming service,Rap,6,Y,N,Y,Y,N,120,Mild,Mild,Mild,Mild
+735,11/4/2022,10-19,Spotify,Classical,5,Y,Y,N,N,N,170,Mild,Mild,Mild,Mild
+736,11/9/2022,20-29,YouTube Music,Hip hop,2,Y,N,N,Y,Y,98,Mild,Mild,Mild,Moderate
