@@ -1,32 +1,51 @@
 # DATA CLEANING PROJECT USING MICROSOFT EXCEL
 For any dataset to highlight facts and figures imperative to make strategic business decisions, it is an absolute necessity that they be neat and presentable.
-No pursuit to analyze data in its totality is complete by dodging the very process of data cleaning. In simpler terms, it is a process to fix or remove data that is incorrect, incomplete, or mislabeled. In this project, the dataset deals with the 
+No pursuit to analyze data in its totality is complete by dodging the very process of data cleaning. In simpler terms, it is a process to fix or remove data that is incorrect, incomplete, or mislabeled. 
+
+About the dataset: 
+The dataset used for this project is basically a survey conducted to comprehend the effect of music on an individual's mental health. The survey received 700 responses from people with different music tastes whilst also compiling views on their current state of mind. 
+
+Tools used:
+
+-> Data cleaning: 
+In order to avoid moving forward with a dataset that contains incorrect formats,missing values and repetitions, I performed a wide array of functions inside Microsoft Excel, the details of which are provided below in the walkthrough. 
+
+-> Data visualization: I used tableau to understand the dynamics that correlate music and the overall change or the lack of it on our state of mind.
+
+Walkthrough of the project: 
 
 A) Inserting a new "responders_id" column to give each survey responder a unique ID using the SEQUENCE function
-Since a total of 736 people responded to the survey, I used the SEQUENCE function to insert 736 values inside the "responders_id" column. 
+The SEQUENCE function, just like the name suggests, is pretty useful in generating a list of sequential numbers depending on user's preference. 
+In this case, since a total of 736 people responded to the survey, I used the SEQUENCE function to generate 736 values inside the newly created "Responders_Id" column.
+
 ![SEQUENCE NEW](https://user-images.githubusercontent.com/123303003/215724296-6c07e84d-1ea6-4340-8a30-d32f3ebd5342.png)
 
 
-
 B) Extracting "Date" from the timestamp column using a range of functions:
-The timestamp column maintains a combined record of the date as well as the time when the survey response was recorded and subsequently updated in the dataset.
-While the initial values do seem to be of the same format, the latter half of the column lacks uniformity. A clear variance can be observed in the timestamp column from "B448".
-To extract date from this column, we need to perform a range of functions. 
--> Using the left function to segregate the first 446 cells. 
+In our dataset, the timestamp column was created to maintain combined records of the date as well as the time when the survey was responded on.
+If you check the original 'csv' file, you will find that the values in the column lack uniformity and have been incorrectly formatted, preferably, the latter half of the data. Even though the first 448 values in the column can be cleaned by using the LEFT function to extract the date from the combined time and date record, a clear variance can be observed in the column from "B448". 
+Just for the sake of enhancing the quality of our data, I decided to perform a range of functions and then custom format the results just to maintain uniformity. 
+
+--> Using the LEFT function to withdraw date from the first 446 cells. 
+The LEFT function in Microsoft Excel can be used to return a specified number of characters from the left side of the string.
+In this case, I have used the LEFT function to extract date from the first 446 cells. 
+
 ![LEFT FUNCTION DATE](https://user-images.githubusercontent.com/123303003/215719757-729e4b94-1a87-4942-9012-238ece6646a6.png)
 
--> B448 to B644 contains date and time, preferably, date arranged in the wrong manner. Here, the system shows the first value in the date to be the day where it should have been a month.
-Eg: 9/13/2022
-Here, 9 (September) is supposed to be the month, 
-13 is supposed to be the day,
-and 2022 is supposed to be the year. 
+-> Using the DATE function to extract and rearrange the rest of the values.
+Having extracted the first 446 cells from the timestamp column into the newly created "Date (Fixed)" column, I was confronted with an another issue in the dataset.
+Cells from B448 to B644 had date arranged in the wrong format, separating it from the first 446 cells in the column. Here, I noticed that the first character, which should have been the month, was recorded as the day on which the survey was responded. 
 
-Instead, the values are reversed. In this case, we can use the "DATE" function to rearrange values and place the month and the day accordingly.
-![DATE FUNCTION ](https://user-images.githubusercontent.com/123303003/215725781-5aaa974d-9399-4ec1-b2bc-0e030d505a31.png)
+For Example :
+
+In "9/13/2022", 9 is supposed to be the month, 13 is supposed to be the day, and 2022 is supposed to be the year. Whilst Excel does recognize the year correctly, the values highlighting month and the day of the response have been exchanged. A way of correcting this is using the "DATE" function to manually input the date you want returned. 
+The syntax for the DATE function is as follows:
+
+DATE = (year, month, day)
+
+After the DATE function returns the output you asked of it, you can format the date as per your requirements. In my case, right after I executed the DATE function, I immediately noticed the output still being in contrast to the ones I managed to generate using the LEFT function. Since most of the data in the Timestamp column is wrongly formatted, to ensure that the cells were following a standarised date format, I decided to use a custom format. The images of the process are provided right below. 
 
 
-However, even after executing the date function, the resultant values do not give us the desired output.
-Just like the first 446 cells in our column, the order we wish to maintain in our records is mm/dd/yyyy. In order to alter these cells to match our standard date format, I decided to use a custom format. 
 ![DATE RESULT VALUES](https://user-images.githubusercontent.com/123303003/215726310-98df5782-6460-494e-a759-08eed91ebfb1.png)
 
 Since the cells highlighted have zeroes preceding the actual date and month, which does not seem to be the case in the 446 cells above it, I decided to customize the date format to maintain uniformity in my data.
